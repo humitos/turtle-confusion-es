@@ -9,4 +9,11 @@ This book is really usefull for Sugar's Activity *Turtle Confusion*:
  * Repository: http://git.sugarlabs.org/turtleconfusion
  * Wiki: http://wiki.sugarlabs.org/go/Activities/Turtle_Confusion
 
- * **OnLine version** of this translation: http://turtle-confusion-spanish-version.readthedocs.org/
+**OnLine version** of this translation: 
+ * http://turtle-confusion-spanish-version.readthedocs.org/
+
+More information about the author:
+ * https://researchers.anu.edu.au/researchers/newell-eb
+
+Contructing Modern Knowledge post:
+ * http://constructingmodernknowledge.com/cmk08/?p=1451
