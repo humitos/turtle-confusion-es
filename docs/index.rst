@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   foreword
+   prologue
+
 
 
 Indices and tables

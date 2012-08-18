@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Turtle Confusion - Spanish version'
-copyright = u'2012, Melina Coronel'
+copyright = u'2012, Melina Lucía Coronel'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -183,8 +183,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'TurtleConfusion-Spanishversion.tex', u'Turtle Confusion - Spanish version Documentation',
-   u'Melina Coronel', 'manual'),
+  ('index', 'TurtleConfusion-Spanishversion.tex', u'Turtle Confusion - Spanish version',
+   u'Melina Lucía Coronel', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -213,8 +213,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'turtleconfusion-spanishversion', u'Turtle Confusion - Spanish version Documentation',
-     [u'Melina Coronel'], 1)
+    ('index', 'turtleconfusion-spanishversion', u'Turtle Confusion - Spanish version',
+     [u'Melina Lucía Coronel'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'TurtleConfusion-Spanishversion', u'Turtle Confusion - Spanish version Documentation',
-   u'Melina Coronel', 'TurtleConfusion-Spanishversion', 'One line description of project.',
+  ('index', 'TurtleConfusion-Spanishversion', u'Turtle Confusion - Spanish version',
+   u'Melina Lucía Coronel', 'TurtleConfusion-Spanishversion', 'One line description of project.',
    'Miscellaneous'),
 ]
 
