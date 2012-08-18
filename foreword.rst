@@ -6,4 +6,5 @@ Esta encantadora publicación es el resultado del trabajo inspirado y dedicado d
 Los lectores que deseen leer mas sobre las ideas detrás de este libro deberían leer *Las Tortugas Hablan Matemática* también publicado por el Centro de Desarrollos Curriculares. 
 
 Brent Corish
+
 Director
