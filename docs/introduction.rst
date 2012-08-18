@@ -37,6 +37,20 @@ Luego de aproximadamente una hora fui a la cocina con el manuscrito en la mano. 
 
 "Vélo de esta manera," dijo el Tortugo. "Hay 'puzzles' ... las formas geométricas...tienes que encontrar una secuencia de comandos en Logo que hará que la tortuga en la pantalla dibuje cada forma...necesitas pensar matemáticamente para hacerlo. Y hay 'acertijos'...historias y poemas con pistas escondidas en ellos...las pistas son mayormente sobre las conexiones entre los puzzles. Eso también es matemático."
 
+"¿Conexiones?" dije. "¿Quieres decir que todos los puzzles están relacionados entre sí?"
+
+"Sí," dijo el Tortugo, mientras volvía su entusiasmo. 
+
+"Ah-ha," dije, dejando mi sandwich. "Entonces el cuadernillo es una serie de puzzles y acertijos relacionados, y necesitas usar buenos métodos de resolución de problemas y pensamiento matemático para descubrir de qué se trata todo?"
+
+"Exacto! Puedes considerar el cuadernillo entero como un gran problema."
+
+Lo miré al Tortugo por un momento: "¿Querrías parafrasear eso?"
+
+"En serio, EBN, sabes lo que quiero decir," dijo. 
+
+"Perdón, sí sé qué quieres decir," dije. "Ahora... Tengo otra pregunta. Algnuas de estas cosas parecen ligeramente desafiantes a primera vista
+
 
 
 
