@@ -13,4 +13,8 @@ El Tortugo parecía divertido y me preguntó si me había olvidado de mis experi
 
 Yo debo haberme visto escéptico porque, sin ningúna indicación de mi parte, él siguió directamente diciendo que no tendría que ser difícil producir una serie de problemas que cumpliera con sus criterios...problemas que fuesen divertidos, que involucraran matemáticas que valgan la pena, y que desafiaran a los estudiantes... maestros y padres en consecuencia.
 
+Recuerdo que después dije, "Tonterías, no creo que puedas hacerlo!"
 
+El tortugo sonrió ampliamente y dijo, "Bien, EBN, sólo tendrás que esperar y verás!"
+
+Lo ví muy poco por los próximos tres meses; se enfrascó en la biblioteca por horas y horas y, si yo llegaba a encontrarme
