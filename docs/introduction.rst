@@ -49,7 +49,16 @@ Lo miré al Tortugo por un momento: "¿Querrías parafrasear eso?"
 
 "En serio, EBN, sabes lo que quiero decir," dijo. 
 
-"Perdón, sí sé qué quieres decir," dije. "Ahora... Tengo otra pregunta. Algnuas de estas cosas parecen ligeramente desafiantes a primera vista
+"Perdón, sí sé qué quieres decir," dije. "Ahora... Tengo otra pregunta. Algunas de estas cosas parecen ligeramente desafiantes en una primera lectura...¿Para quién lo has escrito?"
+
+"Para alumnos de secundaria, maestros y padres. Hay caminos fáciles en el cuadernillo, por ejemplo, puedes empezar por las formas mas simples de Logo y los acertijos más fáciles, pero también hay acertijos que representarán un reto para los adultos."
+
+"¿Porqué querrías hacer eso?" dije. "¿Porqué tener un rango tam amplio de dificultad?"
+
+"Bueno," dijo el Tortugo, "Yo creo que es importante para los maestros y los padres que se involucren profundamente en el proceso de resolución de problemas ellos mismos. Si eso ocurriera entonces debe haber acertijos que desafíen genuinamente a los adultos."
+
+
+
 
 
 
