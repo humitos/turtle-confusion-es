@@ -17,4 +17,8 @@ Recuerdo que después dije, "Tonterías, no creo que puedas hacerlo!"
 
 El tortugo sonrió ampliamente y dijo, "Bien, EBN, sólo tendrás que esperar y verás!"
 
-Lo ví muy poco por los próximos tres meses; se enfrascó en la biblioteca por horas y horas y, si yo llegaba a encontrarme
+Lo ví muy poco por los próximos tres meses; se enfrascó en la biblioteca por horas y horas y, si yo llegaba a encontrarme en los alrededores, él cerraba su cuaderno, solamente me miraba y soltaba una risita. 
+
+Pero permitanme ahora ocuparme de la narrativa a pleno; mis notas son bastante detalladas cuando de trata de eventos subsiguientes...
+
++ + + + + + + 
