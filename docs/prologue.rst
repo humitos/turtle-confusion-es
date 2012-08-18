@@ -21,4 +21,4 @@ Lo ví muy poco por los próximos tres meses; se enfrascó en la biblioteca por 
 
 Pero permitanme ahora ocuparme de la narrativa a pleno; mis notas son bastante detalladas cuando de trata de eventos subsiguientes...
 
-+ + + + + + + 
++++++++
