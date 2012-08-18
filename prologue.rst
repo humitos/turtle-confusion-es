@@ -11,6 +11,6 @@ Luego dije que estaba todo muy bien con hablar de encontrarse con las matemátic
 
 El Tortugo parecía divertido y me preguntó si me había olvidado de mis experiencias áulicas con Logo. Él dijo que Logo en realidad era un buen ejemplo porque proporcionaba tanto el acceso a ideas matemáticas interesantes **como** excelentes razones para aprender esas ideas. Afirmaba que los "problemas significativos" eran no sólo aquellos que se relacionaban con la vida cotidiana...podían ser problemas que derivaban su atractivo de su estética o de su valor de entretenimiento...los problemas pueden ser divertidos y aún presentar un desafío genuino a los estudiantes. 
 
-Yo debo haberme visto escéptico porque, sin ningúna indicación de mi parte, él siguió directamente diciendo que no tendría que ser difícil producir una serie de problemas que cumpliera con sus criterios...problemas que fuesen divertidos, que involucraran matemáticas que valgan la pena, y que desafiaran a los estudiantes...y maestros y padres en consecuencia.
+Yo debo haberme visto escéptico porque, sin ningúna indicación de mi parte, él siguió directamente diciendo que no tendría que ser difícil producir una serie de problemas que cumpliera con sus criterios...problemas que fuesen divertidos, que involucraran matemáticas que valgan la pena, y que desafiaran a los estudiantes... maestros y padres en consecuencia.
 
 
