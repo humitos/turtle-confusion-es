@@ -55,7 +55,19 @@ Lo miré al Tortugo por un momento: "¿Querrías parafrasear eso?"
 
 "¿Porqué querrías hacer eso?" dije. "¿Porqué tener un rango tam amplio de dificultad?"
 
-"Bueno," dijo el Tortugo, "Yo creo que es importante para los maestros y los padres que se involucren profundamente en el proceso de resolución de problemas ellos mismos. Si eso ocurriera entonces debe haber acertijos que desafíen genuinamente a los adultos."
+"Bueno," dijo el Tortugo, "Yo creo que es importante para los maestros y los padres que se involucren profundamente en el proceso de resolución de problemas ellos mismos. Si eso ocurriera entonces debe haber acertijos que desafíen genuinamente a los adultos." 
+
+"¿Pero cómo pueden los alumnos manejar eso?", dije. "Seguramente no puedan progresar mucho con problemas que son difíciles para los adultos."
+
+"Deberías estar sorprendido," dijo el Tortugo, con brillo en sus ojos. "La mayoría de los alumnos serán capaces de resistir con sus maestros y padres... si se les da la oportunidad. Es por eso que el cuadernillo está diseñado para que **nadie** sepa las respuestas... es especialmente importante que los maestros y padres no estén seguros de las soluciones de los acertijos." 
+
+"Estaba a punto de preguntarte sobre eso," dije, hojeando el manuscrito, "¿Dónde **están** las soluciones?" 
+
+El Tortugo se dió un golpecito en la frente. 
+
+"¿Cuán bueno es eso?" dije, "¿Cómo va a saber la gente cuando lo hicieron bien?"
+
+"Tienen que tomar el enfoque científico," dijo el Tortugo. "Tienen que construir sus propias teorías y luego probarlas. Tienen que buscar la consistencia en sus respuestas a los diferentes puzzles y acertijos. Tienen que trabajar juntos y discutir sus ideas. En pocos casos quizaś nunca se aseguren de que van por el camino correcto. Tal como en la vida real."  
 
 
 
