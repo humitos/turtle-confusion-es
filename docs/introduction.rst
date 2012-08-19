@@ -69,12 +69,9 @@ El Tortugo se dió un golpecito en la frente.
 
 "Tienen que tomar el enfoque científico," dijo el Tortugo. "Tienen que construir sus propias teorías y luego probarlas. Tienen que buscar la consistencia en sus respuestas a los diferentes puzzles y acertijos. Tienen que trabajar juntos y discutir sus ideas. En pocos casos quizaś nunca se aseguren de que van por el camino correcto. Tal como en la vida real."  
 
+"¡Esto es serio!" dije, frunciendo el ceño. "Será mejor que me cuentes con mas detalles."
 
-
-
-
-
-
++++++++
 
 
 
