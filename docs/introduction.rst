@@ -73,5 +73,39 @@ El Tortugo se dió un golpecito en la frente.
 
 +++++++
 
+El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos recostados en las cómodas reposeras con un bowl en una mesita ubicada entre nosotros dos. El Tortugo se inclinó y llenó su copa con lo que llamó 'ponche tradicional de celebración'. 
 
+"Bien, ¿Dónde quieres que empiece?" dijo, poniéndose cómodo en su reposera.    
+
+"Desde el principio," dije. "Empieza por decirme qué hay en el cuadernillo." 
+
+"Bien," dijo el Tortugo después de una pequeña pausa. "Primero, hay una serie de cuarenta puzzles Logo."  
+
+"¿Exactamente qué es un puzzle Logo?" 
+
+"Bien, yo dibujo una figura, o un patrón, y luego te digo, *'Aquí tienes, EBN, haz que la tortuga dibuje esta figura'*, pero no te digo qué comandos Logo usar."
+
+"Entonces, ¿Un puzzle Logo es una especie de figura o patrón y su solución es una serie de comandos Logo que hacen que la tortuga dibuje lo que le pido?" 
+
+"Sí," dijo el Tortugo. 
+
+"Me parece bien," dije. "Pero siempre habrá mas de una serie de comandos para producir cada figura. ¿Cómo sabes cuándo tienes la respuesta correcta?"
+
+"Cualquier serie de comandos que haga a la tortuga trazar la figura es **una** respuesta correcta," dijo el Tortugo. "No existe tal cosa como **la** respuesta correcta. Algunas respuestas son mas simples que otras, y podrías discutir que las soluciones mas simples son las mejores, pero **cualquier** serie de comandos que funcione es aceptable." 
+
+"Continúa," dije. 
+
+"Segundo," dijo el Tortugo, "hay una serie de cuarenta acertijos...las historias y los poemas."
+
+"No logro entender completamente la conexión entre los acertijos y los puzzles," dije. "Seguramente no necesitas resolver los acertijos para poder resolver los puzzles." 
+
+"No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para los puzzles, sobre las relaciones entre los puzzles y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío...apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemática y Logo."
+
+"¿Porqué tienes acertijos que involucran cosas fuera de Logo y matemática?" dije. 
+
+"Esa es otra larga historia... pero la idea principal es plantear una situación problemática que sea como en la vida real 
+
+ 
+
+ 
 
