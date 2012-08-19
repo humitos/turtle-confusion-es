@@ -103,7 +103,19 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "¿Porqué tienes acertijos que involucran cosas fuera de Logo y matemática?" dije. 
 
-"Esa es otra larga historia... pero la idea principal es plantear una situación problemática que sea como en la vida real 
+"Esa es otra larga historia... pero la idea principal es plantear una situación problemática que sea como en la vida real. Los problemas reales involucran muchos factores, y sus soluciones son usualmente para nada obvias...quería que el cuadernillo sea así."
+
+"En otras palabras, quieres que la gente se acostumbre a la idea de que hay métodos para resolver problemas que no implican el uso de las matemáticas."
+
+"¡Exacto!" dijo el Tortugo; se levantó y agarró mi copa para llenarla. 
+
+"Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa...¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito me da la impresión de que los puzzles Logo pueden ser demasiado fáciles para cualquiera lo suficientemente avanzado para resolver los acertijos."
+
+"Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, los puzzles Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que los puzzles sean resueltos como un todo...los puzzles están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de la matemática subyacente. Esta propiedad de los puzzles Logo, sus relaciones, no está tan bien definida y no es tan fácil."
+
+"¿Estas diciendo que la misma actividad de escribir los comandos Logo no es importante?"
+
+"¡No!" dijo el Tortugo. "¡Ni por un segundo!" Para un principiante, el problema de escribir los comandos Logo será desafío suficiente...y es un desafío que vale la pena; se necesita mucho pensamiento matemático y experimentación antes de escribir una serie de comandos Logo viable."       
 
  
 
