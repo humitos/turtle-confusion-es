@@ -117,6 +117,38 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "¡No!" dijo el Tortugo. "¡Ni por un segundo!" Para un principiante, el problema de escribir los comandos Logo será desafío suficiente...y es un desafío que vale la pena; se necesita mucho pensamiento matemático y experimentación antes de escribir una serie de comandos Logo viable."       
 
+"Es razonable," dije, "supongo que el hecho de estar trabajando con la tortuga en pantalla significa que puedes ver fácilmente cuándo tu respuesta es correcta o incorrecta."
+
+"Sí," dijo el Tortugo, "eso es muy importante...Logo rara vez da buen feedback."
+
+"Pero ¿Qué pasa con los acertijos? Todavía no veo cómo puedes saber si tus respuestas a los acertijos son aproximadamente correctas siquiera," dije arrugando una ceja. 
+
+"Al comparar notas, al discutir, al asegurarse que las soluciones propuestas para los acertijos coinciden con las propiedades de los puzzles Logo. Incluso, hay algunas otras pistas en cada acertijo, las cuales permiten verificaciones." 
+
+"¡Ah-ha! ¿Entonces hay información escondida dentro de los acertijos que puedes usar para probar tus respuestas?"  
+
+"Sí. En la mayoría de los casos será obvio cuando estés en el camino correcto. Cuando propones una nueva solución, tu visión del problema cambia y, si tu nuevo punto de vista está bien, otras pistas aparecerán frente tuyo."
+
+"Suena como conejos que salen de una galera," dije. 
+
+"Sí," dijo el Tortugo con una sonrisa. "Magia." 
+
+"Bien," dije, levantándome y comenzando a guardar mi reposera, "suena bastante bien. ¿Y qué hay de los recursos? No todos tendrán una computadora disponible."
+
+"Sí," dijo el Tortugo, "eso es verdad. Pero puedes usar el cuadernillo sin una computadora; por ejemplo, puedes anotar los comandos Logo, y luego tener un amigo con quien 'jugar a la tortuga' y seguir tus instrucciones...o puedes mapear los movimientos en papel." 
+
+"Pero seguramente es mejor usar una computadora," dije. "Esa es la forma más fácil de averiguar si tu solución funciona." 
+
+"Es cierto...pero resolver los puzzles Logo no es la única actividad en el cuadernillo, entonces puedes desarrollar una clase fácilmente con una o dos computadoras. Por supuesto, sí necesitas otros recursos... para resolver los acertijos necesitas un buen diccionario, un atlas, una enciclopedia y una modesta biblioteca de literatura clásica."
+
+El Tortugo levantó el bowl vacío de ponche y empezó a cruzar el césped. Luego se detuvo y se dió vuelta. "¿Porqué no revisas el cuadernillo tu mismo?" dijo, "Valoraría tus comentarios." 
+
+"Bien," dije, juntando las copas, "quizás lo haga...pero ¿te importaría probarlo en una de mis clases primero? Me gustaría ver todo esto en acción antes de decidir. 
+
+"Me alegro de ayudar
+
+
+
  
 
  
