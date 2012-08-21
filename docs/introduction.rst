@@ -145,7 +145,9 @@ El Tortugo levantó el bowl vacío de ponche y empezó a cruzar el césped. Lueg
 
 "Bien," dije, juntando las copas, "quizás lo haga...pero ¿te importaría probarlo en una de mis clases primero? Me gustaría ver todo esto en acción antes de decidir. 
 
-"Me alegro de ayudar
+"Me alegro de ayudar," dijo el Tortugo, entrando a la casa. 
+
+
 
 
 
