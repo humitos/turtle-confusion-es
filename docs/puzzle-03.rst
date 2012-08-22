@@ -10,7 +10,7 @@ Puzzle 3
 
 El Tortugo abrío su cuadernillo en el tercer puzzle y lo miró por un rato. 
 
-"Quizás," dijo, "ayudaría si consideraras a ésta figura como un rectámgulo al que le han arrancado una esquina."
+"Quizás," dijo, "ayudaría si consideraras a ésta figura como un rectángulo al que le han arrancado una esquina."
 
 "¿Cómo puede eso ayudar?" dije, mientras me acomodaba en frente de la computadora. 
 

@@ -8,13 +8,13 @@ Puzzle 2
    :alt: Puzzle 2
    :align: left
 
-Dejé mi taza de café y miré al Tortugo. "Tu desempeño me pareció bien el otro día... Y los chicos parecían disfrutar el poema espantoso." Hice una pausa esperando un efecto. "Bien, do todas maneras, me has convencido... A pesar de mis dudas probaré esos problemas."
+Dejé mi taza de café y miré al Tortugo. "Tu desempeño me pareció bien el otro día... Y los chicos parecían disfrutar el poema espantoso." Hice una pausa esperando un efecto. "Bien, de todas maneras, me has convencido... A pesar de mis dudas probaré esos problemas."
 
 "¡Te tomo la palabra!" dijo el Tortugo, saltando de su silla sonriente. 
 
 "¿Dónde empiezo?" pregunté. 
 
-"Con el segundo puzzle en el cuadernillo," dijo el Tortugo. "Si puedes resolver el Puzzle 1 entonces no tendrñias que tener problemas con éste. Para agregarle una dificultad, trata de dibujar el rectángulo con el comando REPETIR."
+"Con el segundo puzzle en el cuadernillo," dijo el Tortugo. "Si puedes resolver el Puzzle 1 entonces no tendrías que tener problemas con éste. Para agregarle una dificultad, trata de dibujar el rectángulo con el comando REPETIR."
 
 "Sin preocupaciones," dije, dirigiéndome al estudio. 
 
