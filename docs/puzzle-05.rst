@@ -1,5 +1,5 @@
-Puzzle 5
-=========
+Figura 5
+========
 
 .. image:: _static/images/confusion-5.svg
    :height: 300px
@@ -23,17 +23,15 @@ El Tortugo miró el cuadernillo abierto sobre el escritorio del estudio. "¿Cóm
 
 "Déjame hacer dos comentarios," dijo el Tortugo. Sonaba verdaderamente paternal. "Primero, no **tienes** que encontrar soluciones ordenadas; cualquier comando que funcione es un resultado útil. Segundo, si realmente quieres encontrar una solución simple, considera el siguiente acertijo:
 
+    **¿Qué tiene esta figura en común con:**
 
-**¿Qué tiene esta figura en común con:
-    
-    Una barca, pero no una goleta?
-    
-    Un bife con verduras, pero no una lata de arvejas?
-    
-    *Las Cuatro Estaciones*, pero no *Submarino Amarillo*?
-    
-    Un nudo marinero, pero no un turbante?"**
+    **Una barca, pero no una goleta?**
 
+    **Un bife con verduras, pero no una lata de arvejas?**
+
+    ***Las Cuatro Estaciones*, pero no *Submarino Amarillo*?**
+
+    **Un nudo marinero, pero no un turbante?"**
 
 El Tortugo hizo una pausa para respirar y luego dió un paso atrás alarmado. 
 
