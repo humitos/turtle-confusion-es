@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="246.39999"
    height="246.39999"
-   id="svg2">
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="confusion-32.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4014"
+     showgrid="false"
+     inkscape:zoom="0.95779223"
+     inkscape:cx="123.2"
+     inkscape:cy="123.2"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <metadata
      id="metadata140">
     <rdf:RDF>
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,26 +330,4 @@
      d="M 158.6,158.6 123.2,123.2"
      id="path134"
      style="fill:none;stroke:#808080;stroke-width:5;stroke-linecap:round;stroke-opacity:1" />
-  <g
-     transform="translate(-5.345879,-51.960292)"
-     id="g5715-0">
-    <path
-       d="m 164.34507,100.8389 13.83271,0"
-       id="path2995-38"
-       style="fill:none;stroke:#000000;stroke-width:1.13199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-    <path
-       d="m 212.05005,100.85932 -14.28163,0"
-       id="path2995-3-0"
-       style="fill:none;stroke:#000000;stroke-width:1.13199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-    <text
-       x="181.55464"
-       y="104.48931"
-       id="text4233-74"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="181.55464"
-         y="104.48931"
-         id="tspan4235-9"
-         style="font-size:10px">50</tspan></text>
-  </g>
 </svg>

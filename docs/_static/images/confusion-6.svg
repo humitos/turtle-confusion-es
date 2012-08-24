@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="235"
    height="235"
-   id="svg2">
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="confusion-6.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="1.0042553"
+     inkscape:cx="117.5"
+     inkscape:cy="117.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,50 +130,4 @@
      d="m 202.63436,202.44923 -169.999991,0"
      id="path22"
      style="fill:none;stroke:#808080;stroke-width:5;stroke-linecap:round;stroke-opacity:1" />
-  <path
-     d="m 3.6519164,218.65738 94.1812206,0"
-     id="path2995-7-8"
-     style="fill:none;stroke:#000000;stroke-width:1.13199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-  <path
-     d="m 231.34808,218.67853 -94.18122,0"
-     id="path2995-3-3-5"
-     style="fill:none;stroke:#000000;stroke-width:1.13199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-  <text
-     x="125.31421"
-     y="194.86652"
-     transform="scale(0.87656061,1.1408224)"
-     id="text4233-8-4"
-     xml:space="preserve"
-     style="font-size:35.06242371px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-       x="125.31421"
-       y="194.86652"
-       id="tspan4235-6-4"
-       style="font-size:10px">230</tspan></text>
-  <g
-     transform="matrix(0,-1,0.59189879,0,16.775098,407.22307)"
-     id="g7469">
-    <g
-       transform="matrix(1,0,0,0.97222223,0,2.767471)"
-       id="g7475">
-      <path
-         d="m 221.6119,26.455677 0,122.574583"
-         id="path2995-7-8-5"
-         style="fill:none;stroke:#000000;stroke-width:1.49224424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-      <path
-         d="m 221.59075,321.81242 0,-122.57458"
-         id="path2995-3-3-5-0"
-         style="fill:none;stroke:#000000;stroke-width:1.49224424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)" />
-      <text
-         x="159.31464"
-         y="-217.9612"
-         transform="matrix(0,1,-1,0,0,0)"
-         id="text4233-8-4-4"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-           x="159.31464"
-           y="-217.9612"
-           id="tspan4235-6-4-9"
-           style="font-size:13.18237019px">170</tspan></text>
-    </g>
-  </g>
 </svg>
