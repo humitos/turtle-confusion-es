@@ -15,7 +15,7 @@ El Tortugo miró el cuadernillo abierto sobre el escritorio del estudio. "¿Cóm
 
 "¿Puedo ayudar?" preguntó. Parecía responder muy bien a las admisiones de derrota. "¿Cuál es el problema?"
 
-"Bien," dije, "Calculé una serie de comandos para dibujar la cruz, pero no eran muy satisfactorios; muchos comandos...hileras enteras de comandos."
+"Bien," dije, "Calculé una serie de comandos para dibujar la cruz, pero no eran muy satisfactorios; muchos comandos... Hileras enteras de comandos."
 
 "No hay nada de malo en eso," dijo el Tortugo, "Es una solución perfectamente aceptable."
 

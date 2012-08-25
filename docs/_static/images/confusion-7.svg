@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="288"
    height="288"
-   id="svg8493">
+   id="svg8493"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="confusion-7.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.81944444"
+     inkscape:cx="144"
+     inkscape:cy="144"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8493" />
   <metadata
      id="metadata8535">
     <rdf:RDF>
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,26 +138,4 @@
      d="m 243.94474,244.01883 -100,0"
      id="path8529"
      style="fill:none;stroke:#808080;stroke-width:5;stroke-linecap:round;stroke-opacity:1" />
-  <g
-     transform="translate(34.218261,43.150826)"
-     id="g5715-8">
-    <path
-       d="m 11.522128,100.84054 72.69378,0"
-       id="path2995-7"
-       style="fill:none;stroke:#000000;stroke-width:1.13166273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)" />
-    <path
-       d="m 208.04135,100.85782 -72.69379,0"
-       id="path2995-3-3"
-       style="fill:none;stroke:#000000;stroke-width:1.13166285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)" />
-    <text
-       x="100.58539"
-       y="104.48931"
-       id="text4233-8"
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-         x="100.58539"
-         y="104.48931"
-         id="tspan4235-6"
-         style="font-size:10px">200</tspan></text>
-  </g>
 </svg>
