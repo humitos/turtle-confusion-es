@@ -8,7 +8,7 @@ Figura 19
    :alt: Puzzle 19
    :align: left
 
-Tiré otra leña en el fuego y por un rato nos quedamos mirando las llamas bailar. El Tortugo siguió leyendo su libro (estaba haciendo un esfuerzo conjunto para leer algunos clásicos... Su último lema fue '*un capítulo por día, quita las arañitas*') y yo seguí pensando en la figura de Logo que trataba de resolver. 
+Tiré otra leña en el fuego y por un rato nos quedamos mirando las llamas bailar. El Tortugo siguió leyendo su libro (estaba haciendo un esfuerzo conjunto para leer algunos clásicos... Su último lema fue '*un capítulo por día, las telarañas quita*') y yo seguí pensando en la figura de Logo que trataba de resolver. 
 
 "¿Te molestaría si interrumpo tu lectura por un momento?" dije luego de unos minutos. 
 
