@@ -264,7 +264,8 @@ pdf_documents = [
 ]
 
 # A comma-separated list of custom stylesheets. Example:
-pdf_stylesheets = ['sphinx','kerning','a4']
+#pdf_stylesheets = ['sphinx','kerning','a4']
+pdf_stylesheets = ['my']
 
 # A list of folders to search for stylesheets. Example:
 pdf_style_path = ['.', '_styles']
@@ -326,6 +327,7 @@ pdf_use_modindex = False
 
 # Set the default DPI for images
 #pdf_default_dpi = 72
+pdf_default_dpi = 62
 
 # Enable rst2pdf extension modules (default is only vectorpdf)
 # you need vectorpdf if you want to use sphinx's graphviz support
