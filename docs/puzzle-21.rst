@@ -10,7 +10,7 @@ Figura 21
 
 "Vamos a caminar al lago," dije. El Tortugo bajó su paleta y bosquejó. 
 
-"Una idea excelente," dijo, "Necesito un descanso. Sólo dame un minuto para limpiar is pinceles." 
+"Una idea excelente," dijo, "Necesito un descanso. Sólo dame un minuto para limpiar mis pinceles." 
 
 Diez minutos después estábamos caminando por el caminito que lleva al lago. El Tortugo olisqueaba el aire con placer. "Uno no se dá cuenta de cuánto vapor de pintura aspira cuando trabajas adentro," dijo. 
 

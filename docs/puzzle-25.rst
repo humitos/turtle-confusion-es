@@ -12,7 +12,7 @@ El Tortugo miraba por encima de mi hombro mientras yo seguia luchando en la figu
 
 "¿Quieres que te lo traduzca?" dijo después de un rato. 
 
-"No, gracias," dije, "Quiero hacerlo solo. Además, entiendo completamente tu lenguaje extramadamente simple."
+"No, gracias," dije, "Quiero hacerlo solo. Además, entiendo completamente tu lenguaje extremadamente simple."
 
 El Tortugo se dió vuelta, un poco abruptamente me pareció, y caminó hacia la puerta. 
 

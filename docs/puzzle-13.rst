@@ -21,7 +21,7 @@ El Tortugo masticaba su sandwich de alfalfa. "¿Cuál es el problema?"
 
 "¿Has tratado de Jugar a la Tortuga?" dijo el Tortugo. 
 
-"¿Qué? ¿Y correr el riesgo de terminar com tú?" dije. 
+"¿Qué? ¿Y correr el riesgo de terminar como tú?" dije.
 
 Fue el turno del Tortugo de lucir exasperado. "Eso era innecesario," dijo pronunciadamente. "Quise decir que podrías pretender ser tú la tortuga; caminar en círculo y notar qué es lo que tienes que hacer."
 

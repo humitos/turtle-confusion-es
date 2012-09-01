@@ -12,7 +12,7 @@ Figura 14
 
 "Bien, la figura 14 realmente es facilísima," dije mientras le untaba manteca a una tostada. 
 
-El Tortugo puso un plato de arenques en la mesa y se sentó enfrente mío. ¿Sabías que hay tres formas diferentes de resolver esa figura?" dijo, tratando de alcanzar un arenque. 
+El Tortugo puso un plato de arenques en la mesa y se sentó enfrente mío. "¿Sabías que hay tres formas diferentes de resolver esa figura?" dijo, tratando de alcanzar un arenque. 
 
 "Oh, no," dije, "Justo cuando creía que lo tenía dominado."
 

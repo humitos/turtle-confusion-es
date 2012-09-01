@@ -28,7 +28,7 @@ El Tortugo se rió entre dientes, y luego dijo, "Mientras pasas por éstas últi
 
 El Tortugo se acostó en la manta de picnic, con las manos detrás de su cabeza, mirando hacia arriba entre las hojas. Luego de un rato, se sentó. 
 
-"¿Porqué?" dijo, mirándome por arriba del marco de sus anteojos. ¿No puedes encajar una estaca cuadrada en un agujero redondo?"
+"¿Porqué?" dijo, mirándome por arriba del marco de sus anteojos. "¿No puedes encajar una estaca cuadrada en un agujero redondo?"
 
 "Porque las esquinas quedan afuera," dije. 
 

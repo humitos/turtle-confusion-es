@@ -21,9 +21,9 @@ El Tortugo estaba ocupado poniendo azulejos nuevos en el baño. Me acerqué a la
 
 El Tortugo me miró brevemente pero con ojos penetrantes. No podía detectar otra cosa más que vehemencia. Sin embargo, cambió de tema. 
 
-"Creo que la parte más difícil de pones los azulejos es insertar las partecitas al final de cada fila," dijo, dándole una mirada crítica a su obra. 
+"Creo que la parte más difícil de poner los azulejos es insertar las partecitas al final de cada fila," dijo, dándole una mirada crítica a su obra. 
 
-"Coincido," dije, "realmente debes pensar cuidadosamente en las formas, y en cómo calzan, y en..." Hice una pausa... **Había** cambiado de tema? Lo miré brevemente pero con ojos penetrantes, no pude detectar otra cosa más que vehemencia. Sin embargo, cambié de tema. 
+"Coincido," dije, "realmente debes pensar cuidadosamente en las formas, y en cómo calzan, y en..." Hice una pausa... ¿**Había** cambiado de tema? Lo miré brevemente pero con ojos penetrantes, no pude detectar otra cosa más que vehemencia. Sin embargo, cambié de tema. 
 
 "Toma otro panecillo," le dije, ofreciéndole el plato. 
 

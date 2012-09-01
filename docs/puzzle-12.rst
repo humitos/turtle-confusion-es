@@ -8,7 +8,7 @@ Figura 12
    :alt: Puzzle 12
    :align: left
 
-El Tortugo y yo estábamos en el laboratorio cuando él levanto la vista y dijo, "Por cierto, ¿Cómo vas con las figuras Logo?"
+El Tortugo y yo estábamos en el laboratorio cuando él levantó la vista y dijo, "Por cierto, ¿Cómo vas con las figuras Logo?"
 
 "Nada mal," dije, "Estoy en la figura 12."
 
