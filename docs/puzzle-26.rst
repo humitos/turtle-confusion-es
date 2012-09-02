@@ -12,9 +12,9 @@ Figura 26
 
 "¿Qué quieres decir?" dijo el Tortugo, "¿Quieres que te dé las soluciones?"
 
-"No, por supuesto que no," dije. "Quiero decir, dime del tipo de información que se esconde en los acertijos."
+"No, por supuesto que no," dije. "Quiero decir, dime el tipo de información que se esconde en los acertijos."
 
-"Bien," dijo el Tortugo, chapoteando su colchoneta más cerca mío, "Hay básicamente tres tipos de acertijos - el primer tipo te dá ideas sobre cómo resolver las figuras, el segundo tipo te dá pistas sobre las propiedades de los patrones y el tercer tipo te dá pistas para otras figuras que están relacionadas con la que estás resvolviendo."
+"Bien," dijo el Tortugo, chapoteando su colchoneta más cerca mío, "Hay básicamente tres tipos de acertijos - el primer tipo te dá ideas sobre cómo resolver las figuras, el segundo tipo te dá pistas sobre las propiedades de los patrones y el tercer tipo te dá pistas para otras figuras que están relacionadas con la que estás resolviendo."
 
 "¿Qué quieres decir con 'relacionadas'?"
 
@@ -38,7 +38,7 @@ Figura 26
 
     **Que las ideas que crecen,**
 
-    **Como motivo y método deber competir."** ...
+    **Como motivo y método deber competir.'** ...
 
 "Criminal," dije. 
 
