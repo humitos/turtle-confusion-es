@@ -107,8 +107,8 @@
       parent: normal
 
     blockquote:
-      parent: bodytext
       leftIndent: 20
+      leading: 5
 
     lineblock:
       parent: bodytext
