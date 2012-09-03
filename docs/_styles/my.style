@@ -11,9 +11,9 @@
     height: null
     margin-top: 2cm
     margin-bottom: 2cm
-    margin-left: 3.5cm
+    margin-left: 2cm
     margin-right: 2cm
-    margin-gutter: 0cm
+    margin-gutter: 1.5cm
     spacing-header: 5mm
     spacing-footer: 5mm
 
@@ -70,8 +70,8 @@
       rightIndent: 0
       firstLineIndent: 0
       alignment: TA_LEFT
-      spaceBefore: 12
-      spaceAfter: 12
+      spaceBefore: 5
+      spaceAfter: 5
       bulletFontName: stdFont
       bulletFontSize: 10
       bulletIndent: 0
