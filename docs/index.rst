@@ -4,7 +4,16 @@
 Turtle Confusion - Versión en Español
 =====================================
 
-Contenido:
+:Versión: |version|
+:Fecha: |today|
+
+.. We are asking to the author about the License of this Translation.
+.. :Copyright:
+
+Ésta es una traducción al Español del libro "Turtle Confusion" de Barry Newell realizada por `Melina Lucía Coronel`_ y revisada y editada por `Manuel Kaufmann`_. Por favor si encuentras algún error en ella, contáctate con nosotros.
+
+.. _Melina Lucía Coronel: melina_coronel@yahoo.com.ar
+.. _Manuel Kaufmann: humitos@gmail.com
 
 .. toctree::
    :maxdepth: 2
