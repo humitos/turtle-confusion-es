@@ -20,12 +20,15 @@ La clase se rió con alegría y el Tortugo soltó una risita. Empezó a relajars
 
 Todos comenzaron a tipear comandos en sus teclados y los cuadrados verdes empezaron a aparecer en las pantallas de las computadoras. El Tortugo se puso a escribir en el pizarrón, en letra clara y redonda:
 
+    **Había una pequeña alumna llamada Myrtle,**
 
-    **Había una pequeña alumna llamada Myrtle,
-    Que trató de conversar con el Tortugo,
-    Luego dijo, 'Chicos,
-    Las escalas caen de sus ojos,
-    Cuando sacan el obstáculo de la homología**
+    **Que trató de conversar con el Tortugo,**
+
+    **Luego dijo, 'Chicos,**
+
+    **Las escalas caen de sus ojos,**
+
+    **Cuando sacan el obstáculo de la homología**
 
 "Listo," dijo, sacándose la tiza de las manos, "eso puede ayudarles a averiguar de lo que estoy hablando." 
 

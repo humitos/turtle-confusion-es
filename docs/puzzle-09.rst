@@ -22,8 +22,11 @@ El Tortugo arrugó la boca un poco, pero continuó: "Muchos libros le dicen al l
 El Tortugo se dió vuelta para salir del estudio. En la puerta se detuvo y giró. "Podrías," dijo, "aprender algo valioso en el proceso de decirle a la tortuga cómo dibujar, y sobre geometría, pensando en el siguiente poema:
 
     **Los insectos están todos muertos, te sientes como Lister,**
+
     **Tienes una figura para Clio, una mas para cada hermana,**
+
     **Y luego te enteras, desde una guardia en la llanura,** 
+
     **Que tú y la Tortuga tiene visiones complementarias."**
 
 Me quejé. "Por favor, vete," dije. 
