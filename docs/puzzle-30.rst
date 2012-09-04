@@ -8,7 +8,7 @@ Figura 30
    :alt: Puzzle 30
    :align: left
 
-El Tortugo y yo habíamos tenido una cena temprana y estábamos en el jardín acomodándonos para observar la noche. Había una pequeña y muy delgada masa de nubes cirrus en el sur, pero aparte de eso, el cielo estaba despejado. El último débil resplandor del crepúsculo se esfumaba en el oeste, y la estrellas eran rígidos puntos fríos de luz. 
+El Tortugo y yo habíamos tenido una cena temprana y estábamos en el jardín acomodándonos para observar la noche. Había una pequeña y muy delgada masa de nubes cirrus en el sur, pero aparte de eso, el cielo estaba despejado. El último débil resplandor del crepúsculo se esfumaba en el oeste, y las estrellas eran rígidos puntos fríos de luz. 
 
 "Parece que la vista va a ser buena ésta noche," dije. 
 
@@ -18,7 +18,7 @@ El Tortugo y yo habíamos tenido una cena temprana y estábamos en el jardín ac
 
 Por un rato simplemente nos quedamos mirando el cielo mientras la noche se hacía más profunda. Luego, el Tortugo retiró el protector de rocío de su pequeño reflector. 
 
-"¿Qué piensas de la Ley de Bode?" pregunto, mientras ajustaba los círculos, "Estuve leyendo algo sobre eso hoy." 
+"¿Qué piensas de la Ley de Bode?" preguntó, mientras ajustaba los círculos, "Estuve leyendo algo sobre eso hoy."
 
 "Bastante inestable. No funciona para Neptuno y Plutón, y el índice tiene que estar manipuado por Mercurio. Igualemente, es una correlación interesante."
 

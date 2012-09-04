@@ -8,7 +8,7 @@ Figura 29
    :alt: Puzzle 29
    :align: left
 
-Estábamos sentados en frente del fuego del living. El Tortugo estaba leyendo su 'buena literatura' otra vez, y y estaba escribiendo poemas... Bueno, estaba escribiendo. Luego de un rato levanté la mirada y dije: 
+Estábamos sentados en frente del fuego del living. El Tortugo estaba leyendo su 'buena literatura' otra vez, y yo estaba escribiendo poemas... Bueno, estaba escribiendo. Luego de un rato levanté la mirada y dije: 
 
 "Ahem... Ésta es mi más reciente creación...
 

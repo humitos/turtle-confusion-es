@@ -8,13 +8,13 @@ Figura 31
    :alt: Puzzle 31
    :align: left
 
-Era un día hermoso. Los rays del sol brillaban en el mar calmo y las olas acariciaban la arena. El Tortugo y yo paseábamos despacio a lo largo de la playa, levantando conchas y otros tesoros. 
+Era un día hermoso. Los rayos del sol brillaban en el mar calmo y las olas acariciaban la arena. El Tortugo y yo paseábamos despacio a lo largo de la playa, levantando conchas y otros tesoros. 
 
 "Siempre me impresionan los patrones que ocurren en la naturaleza," dijo el Tortugo, examinando la intrincada trama de rugosidades en una pequeña concha, "nos hace darnos cuenta que todas esas figuras de Logo tienen alguna conexión con el mundo real."
 
 "Un pez muerto," dije, empujando los restos con el dedo del pie. Se levantó un aroma interesante, y el Tortguo se adelantó apurado con una expresión un tanto rígida en la cara. 
 
-Más tarde, de vuelta en la cabaña, estábamos trabajando en una figura de Logo que me había dado problemas. Había hecho bosquejos de posibles soluciones, y había pedido ayuda al Tortugo con alguna de sus usuales 'pistas'. Él pensó por un rato pero no me dijo nada; finalmente se inclinó y tomó una concha de Nautilusque estaba en el escritorio. 
+Más tarde, de vuelta en la cabaña, estábamos trabajando en una figura de Logo que me había dado problemas. Había hecho bosquejos de posibles soluciones, y había pedido ayuda al Tortugo con alguna de sus usuales 'pistas'. Él pensó por un rato pero no me dijo nada; finalmente se inclinó y tomó una concha de Nautilusque que estaba en el escritorio. 
 
 "Hermosa," dijo el Tortugo, girando la concha lentamente en sus manos, "*Nautilus Pompilius* ... Nos deja a las tortugas dadas por muertas... dadas por muertas." 
 
