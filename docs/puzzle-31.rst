@@ -1,5 +1,5 @@
-FIGURA 31
-=========
+**FIGURA 31**
+=============
 
 .. image:: _static/images/confusion-31.svg
    :height: 300px

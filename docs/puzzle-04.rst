@@ -1,5 +1,5 @@
-FIGURA 4
-========
+**FIGURA 4**
+============
 
 
 .. list-table::

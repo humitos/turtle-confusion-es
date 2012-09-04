@@ -1,5 +1,5 @@
-FIGURA 21
-=========
+**FIGURA 21**
+=============
 
 .. image:: _static/images/confusion-21.svg
    :height: 300px

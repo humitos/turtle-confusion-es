@@ -1,5 +1,5 @@
-FIGURA 19
-=========
+**FIGURA 19**
+=============
 
 .. image:: _static/images/confusion-19.svg
    :height: 300px

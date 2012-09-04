@@ -1,5 +1,5 @@
-FIGURA 12
-=========
+**FIGURA 12**
+=============
 
 .. image:: _static/images/confusion-12.svg
    :height: 300px

@@ -1,5 +1,5 @@
-PREFACIO
-========
+**PREFACIO**
+============
 
 Esta encantadora publicación es el resultado del trabajo inspirado y dedicado del Dr. Barry Newell. Debido a que ofrece problemas desafiantes y estimulantes -tales como, la manera de resolver los rompecabezas, el significado de los acertijos, las pistas escondidas que ayudan a conrifmar "teorías" y la matemática subyacente e incrustada- requerirá de un poco de paciencia y de mucho tiempo para discutir, compartir y pensar. Los estudiantes, padres y maestros pueden disfrutar del entusiasmo de trabajar juntos y de resolver problemas de manera muy similar a la que emplamos en la vida cotidiana.
 

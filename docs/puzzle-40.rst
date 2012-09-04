@@ -1,5 +1,5 @@
-FIGURA 40
-=========
+**FIGURA 40**
+=============
 
 .. image:: _static/images/confusion-40.svg
    :height: 300px

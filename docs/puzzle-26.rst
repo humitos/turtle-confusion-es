@@ -1,5 +1,5 @@
-FIGURA 26
-=========
+**FIGURA 26**
+=============
 
 .. image:: _static/images/confusion-26.svg
    :height: 300px

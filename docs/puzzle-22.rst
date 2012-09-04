@@ -1,5 +1,5 @@
-FIGURA 22
-=========
+**FIGURA 22**
+=============
 
 .. image:: _static/images/confusion-22.svg
    :height: 300px
