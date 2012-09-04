@@ -1,6 +1,8 @@
 Figura 5
 ========
 
+.. role:: bolditalic
+
 .. image:: _static/images/confusion-5.svg
    :height: 300px
    :width: 300px
@@ -29,7 +31,7 @@ El Tortugo miró el cuadernillo abierto sobre el escritorio del estudio. "¿Cóm
 
     **Un bife con verduras, pero no una lata de arvejas?**
 
-    ***Las Cuatro Estaciones*, pero no *Submarino Amarillo*?**
+    :bolditalic:`Las Cuatro Estaciones`, **pero no** :bolditalic:`Submarino Amarillo?`
 
     **Un nudo marinero, pero no un turbante?"**
 
