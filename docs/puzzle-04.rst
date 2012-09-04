@@ -1,14 +1,17 @@
 Figura 4
 ========
 
-.. image:: _static/images/confusion-4.svg
-   :height: 300px
-   :width: 300px
-   :scale: 50 %
-   :alt: Puzzle 4
-   :align: left
 
-El pequeño triángulo indica la esquina en la que la tortuga debería empezar y terminar cuando la C hueca esté dibujada. Asegúrate de que la tortuga esté apuntando en la misma dirección al principio y al final. 
+.. list-table::
+   :class: mytable
+
+   * - .. image:: _static/images/confusion-4.svg
+          :height: 300px
+          :width: 300px
+          :scale: 50 %
+          :alt: Puzzle 4
+          :align: left
+     - El pequeño triángulo indica la esquina en la que la tortuga debería empezar y terminar cuando la C hueca esté dibujada. Asegúrate de que la tortuga esté apuntando en la misma dirección al principio y al final. 
 
 "Esta es mi famosa 'Figura de la C Hueca'," dijo el Tortugo con orgullo evidente, "Usualmente hago que la clase lo complete de tres maneras diferentes.... Incluso les especifico qué comandos pueden usar."
 
