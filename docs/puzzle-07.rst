@@ -1,4 +1,4 @@
-Puzzle 7
+FIGURA 7
 =========
 
 .. image:: _static/images/confusion-7.svg

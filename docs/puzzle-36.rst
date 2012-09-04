@@ -1,4 +1,4 @@
-Puzzle 36
+FIGURA 36
 =========
 
 .. image:: _static/images/confusion-36.svg

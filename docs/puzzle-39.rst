@@ -1,4 +1,4 @@
-Puzzle 39
+FIGURA 39
 =========
 
 .. image:: _static/images/confusion-39.svg

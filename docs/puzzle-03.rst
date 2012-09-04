@@ -1,4 +1,4 @@
-Puzzle 3
+FIGURA 3
 =========
 
 .. image:: _static/images/confusion-3.svg

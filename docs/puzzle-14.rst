@@ -1,4 +1,4 @@
-Figura 14
+FIGURA 14
 =========
 
 .. image:: _static/images/confusion-14.svg

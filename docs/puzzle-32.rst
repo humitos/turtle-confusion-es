@@ -1,4 +1,4 @@
-Puzzle 32
+FIGURA 32
 =========
 
 .. image:: _static/images/confusion-32.svg

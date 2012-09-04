@@ -1,4 +1,4 @@
-Puzzle 35
+FIGURA 35
 =========
 
 .. image:: _static/images/confusion-35.svg

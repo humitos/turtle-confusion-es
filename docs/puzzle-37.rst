@@ -1,4 +1,4 @@
-Puzzle 37
+FIGURA 37
 =========
 
 .. image:: _static/images/confusion-37.svg

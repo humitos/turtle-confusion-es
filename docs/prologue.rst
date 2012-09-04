@@ -1,4 +1,4 @@
-Prólogo
+PRÓLOGO
 =======
 
 Durante los últimos cinco años el Tortugo y yo nos hemos convertido en firmes amigos. Hemos tenido nuestras diferencias de opiniones, por supuesto; él con su dedicación a la investigación en matemática y ciencias y yo con una visión educativa de las mismas materias. Pero, dentro de todo, hemos aprendido mucho el uno del otro y nos hemos divertido en el proceso.

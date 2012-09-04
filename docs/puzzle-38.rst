@@ -1,4 +1,4 @@
-Puzzle 38
+FIGURA 38
 =========
 
 .. image:: _static/images/confusion-38.svg

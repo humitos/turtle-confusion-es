@@ -1,4 +1,4 @@
-Figura 26
+FIGURA 26
 =========
 
 .. image:: _static/images/confusion-26.svg

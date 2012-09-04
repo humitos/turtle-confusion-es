@@ -1,4 +1,4 @@
-Figura 31
+FIGURA 31
 =========
 
 .. image:: _static/images/confusion-31.svg

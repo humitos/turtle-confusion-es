@@ -1,4 +1,4 @@
-Figura 4
+FIGURA 4
 ========
 
 

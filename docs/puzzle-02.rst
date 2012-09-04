@@ -1,4 +1,4 @@
-Puzzle 2
+FIGURA 2
 =========
 
 .. image:: _static/images/confusion-2.svg

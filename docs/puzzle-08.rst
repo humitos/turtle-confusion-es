@@ -1,4 +1,4 @@
-Figura 8
+FIGURA 8
 ========
 
 .. image:: _static/images/confusion-8.svg
