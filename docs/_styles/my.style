@@ -9,13 +9,13 @@
     size: A4
     width: null
     height: null
-    margin-top: 2cm
-    margin-bottom: 2cm
+    margin-top: 1cm
+    margin-bottom: 1cm
     margin-left: 2cm
     margin-right: 2cm
     margin-gutter: 1.5cm
-    spacing-header: 5mm
-    spacing-footer: 5mm
+    spacing-header: 0cm
+    spacing-footer: 0cm
 
     # The first template is one of the 'pageTemplates"
     # (See next section)
@@ -168,8 +168,8 @@
       parent: heading
       fontName: stdBold
       fontSize: 175%
-      spaceAfter: 50
-      spaceBefore: 50
+      spaceAfter: 20
+      spaceBefore: 5
 
     heading3:
       parent: heading
