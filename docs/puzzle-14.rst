@@ -10,7 +10,7 @@
 
 "¡Bocadillo de medianoche!" llamó el Tortugo, y me levanté de la computadora para ir a la cocina. 
 
-"Bien, la figura 14 realmente es facilísima," dije mientras le untaba manteca a una tostada. 
+"Bien, la Figura 14 realmente es facilísima," dije mientras le untaba manteca a una tostada. 
 
 El Tortugo puso un plato de arenques en la mesa y se sentó enfrente mío. "¿Sabías que hay tres formas diferentes de resolver esa figura?" dijo, tratando de alcanzar un arenque. 
 

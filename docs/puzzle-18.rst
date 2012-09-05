@@ -16,7 +16,7 @@ El Tortugo miró la pantalla, donde él estaba atareado dibujando un patrón, y 
 
 Lo miré seriamente por un tiempo. Tuvo la decencia de sonrojarse. 
 
-Miró otra vez la pantalla y dijo, "¿Quieres un puntero para otra figura a la que está relacionada?"
+Miró otra vez la pantalla y dijo, "¿Quieres una pista para otra figura a la que está relacionada?"
 
 "Sí," dije, "Pero dime ¿Porqué crees que vale la pena dar pistas que llevan a otras figuras?"
 

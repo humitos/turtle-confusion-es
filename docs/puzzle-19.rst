@@ -16,7 +16,7 @@ El Tortugo levantó la vista y pensó que yo capté algún destello de gratitud 
 
 "Para nada," dijo. "¿En qué puedo ayudarte?"
 
-"Actualmente estoy trabajando en la figura 19," dije "no me molestaría una pista hacia otra figura relacionada." 
+"Actualmente estoy trabajando en la Figura 19," dije "no me molestaría una pista hacia otra figura relacionada." 
 
 "Humm," dijo el Tortugo, "¿Te das cuenta que las reglas del juego me impiden decirte si la figura a la que está relacionada es más fácil o más difícil? ¿O siquiera si el acertijo es o no una pista completamente falsa?"
 

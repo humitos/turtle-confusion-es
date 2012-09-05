@@ -8,7 +8,7 @@
    :alt: Puzzle 25
    :align: left
 
-El Tortugo miraba por encima de mi hombro mientras yo seguia luchando en la figura 25. Probé unos comandos al azar, y él miraba sin decir nada; aunque sí estaba un poco inquieto... Bien, en realidad... Estaba bastante nervioso para alguien que cree en el aprendizaje explotatorio. 
+El Tortugo miraba por encima de mi hombro mientras yo seguia luchando en la Figura 25. Probé unos comandos al azar, y él miraba sin decir nada; aunque sí estaba un poco inquieto... Bien, en realidad... Estaba bastante nervioso para alguien que cree en el aprendizaje explotatorio. 
 
 "¿Quieres que te lo traduzca?" dijo después de un rato. 
 
