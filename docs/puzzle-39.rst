@@ -26,5 +26,5 @@ Y estaba firmada, *'Del Que Vino Del Otro Lado Del Río'*.
 
 El aroma a papas fritas y pescado se filtraba desde el hall hasta el estudio. 
 
-"Comamos," dije, dejando el papel en el escritorio y abriendo el camino hacia cocina. 
+"Comamos," dije, dejando el papel en el escritorio y abriendo el camino hacia la cocina.
 

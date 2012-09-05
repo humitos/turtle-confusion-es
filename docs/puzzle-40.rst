@@ -12,7 +12,7 @@ El Tortugo asomó la cabeza por la puerta del estudio y dijo, "¿Cómo va eso?"
 
 "Nada bien," dije. "Ésta última figura me está dando toda clase de problemas."
 
-El Tortugo miró a la pantalla, luego a mis anotaciones, y luego sacudió la cabeza. "Pensé que habñias desarrollado un buen enfoque para buscar sub-patrones."
+El Tortugo miró a la pantalla, luego a mis anotaciones, y luego sacudió la cabeza. "Pensé que habías desarrollado un buen enfoque para buscar sub-patrones."
 
 "Mi buen enfoque parece haberme abandonado," dije. 
 
