@@ -13,11 +13,11 @@ El Tortugo bajó el libro que estaba leyendo y pensó por un momento.
 
 "Bien," dijo, "las figuras 10, 11 y 12, y otras tres, están relacionadas de una manera especial. Hay ideas geométricas que se aplican de la misma manera en todas ellas. Una vez que sepas las ideas generales, podrás ver cada una de las seis figuras como un caso especial. Y podrás resolver un gran número de problemas geométricos usando las mismas ideas generales." 
 
-"Sí, realmente es emocionante," dije. "No tengo problemas dándole instrucciones a la tortuga para que dibuje la figura 11, pero aún no tengo ninguna idea de la historia escondida."
+"Sí, realmente es emocionante," dije. "No tengo problemas dándole instrucciones a la tortuga para que dibuje la Figura 11, pero aún no tengo ninguna idea de la historia escondida."
 
 El Tortugo me miró especulativamente, con las cejas levantadas, y luego dijo, "Lee el acertijo."
 
-Abrí el cuadernillo en la figura 11 y leí:
+Abrí el cuadernillo en la Figura 11 y leí:
 
     **Para resolver las figuras debes guiar a nuestra tortuga durante el baile,**
     
