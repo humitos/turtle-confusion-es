@@ -17,3 +17,6 @@ More information about the author:
 
 Contructing Modern Knowledge post:
  * http://constructingmodernknowledge.com/cmk08/?p=1451
+
+We have available an UNFINISHED version of this translation in PDF:
+ * https://github.com/downloads/humitos/turtle-confusion-es/turtle-confusion-es__unfinished.pdf
