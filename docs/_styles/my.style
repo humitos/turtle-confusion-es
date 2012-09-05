@@ -129,6 +129,7 @@
       parent: bodytext
       fontName: stdItalic
       alignment: TA_CENTER
+      fontSize: 65%
 
     figure-legend:
       parent: bodytext
@@ -199,6 +200,6 @@
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], MIDDLE ]
              [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0, white ]
-             [ROWBACKGROUNDS, [0, 0], [-1, -1], [white,#E0E0E0]]
+             [ROWBACKGROUNDS, [0, 0], [-1, -1], [white,white]]
              [BOX, [ 0, 0 ], [ -1, -1 ], 0, white ]
 

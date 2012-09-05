@@ -16,6 +16,7 @@ Turtle Confusion - Versión en Español
 .. _Manuel Kaufmann: humitos@gmail.com
 
 .. include:: foreword.rst
+.. include:: contents.rst
 .. include:: prologue.rst
 .. include:: introduction.rst
 
