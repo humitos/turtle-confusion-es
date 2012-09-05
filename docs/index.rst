@@ -4,8 +4,8 @@
 Turtle Confusion - Versión en Español
 =====================================
 
-:Versión: 1.0
-:Fecha: 4th September, 2012
+:Versión: 1.0 (UNFINISHED)
+:Fecha: 5th September, 2012
 
 .. We are asking to the author about the License of this Translation.
 .. :Copyright:
