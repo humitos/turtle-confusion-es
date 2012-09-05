@@ -4,8 +4,8 @@
 Turtle Confusion - Versión en Español
 =====================================
 
-:Versión: |version|
-:Fecha: |today|
+:Versión: 1.0
+:Fecha: 4th September, 2012
 
 .. We are asking to the author about the License of this Translation.
 .. :Copyright:
@@ -15,57 +15,54 @@ Turtle Confusion - Versión en Español
 .. _Melina Lucía Coronel: melina_coronel@yahoo.com.ar
 .. _Manuel Kaufmann: humitos@gmail.com
 
-.. toctree::
-   :maxdepth: 2
+.. include:: foreword.rst
+.. include:: prologue.rst
+.. include:: introduction.rst
 
-   foreword
-   prologue
-   introduction
+.. include:: puzzle-01.rst
+.. include:: puzzle-02.rst
+.. include:: puzzle-03.rst
+.. include:: puzzle-04.rst
+.. include:: puzzle-05.rst
+.. include:: puzzle-06.rst
+.. include:: puzzle-07.rst
+.. include:: puzzle-08.rst
+.. include:: puzzle-09.rst
+.. include:: puzzle-10.rst
+.. include:: puzzle-11.rst
+.. include:: puzzle-12.rst
+.. include:: puzzle-13.rst
+.. include:: puzzle-14.rst
+.. include:: puzzle-15.rst
+.. include:: puzzle-16.rst
+.. include:: puzzle-17.rst
+.. include:: puzzle-18.rst
+.. include:: puzzle-19.rst
+.. include:: puzzle-20.rst
+.. include:: puzzle-21.rst
+.. include:: puzzle-22.rst
+.. include:: puzzle-23.rst
+.. include:: puzzle-24.rst
+.. include:: puzzle-25.rst
+.. include:: puzzle-26.rst
+.. include:: puzzle-27.rst
+.. include:: puzzle-28.rst
+.. include:: puzzle-29.rst
+.. include:: puzzle-30.rst
+.. include:: puzzle-31.rst
+.. include:: puzzle-32.rst
+.. include:: puzzle-33.rst
+.. include:: puzzle-34.rst
+.. include:: puzzle-35.rst
+.. include:: puzzle-36.rst
+.. include:: puzzle-37.rst
+.. include:: puzzle-38.rst
+.. include:: puzzle-39.rst
+.. include:: puzzle-40.rst
 
-   puzzle-01
-   puzzle-02
-   puzzle-03
-   puzzle-04
-   puzzle-05
-   puzzle-06
-   puzzle-07
-   puzzle-08
-   puzzle-09
-   puzzle-10
-   puzzle-11
-   puzzle-12
-   puzzle-13
-   puzzle-14
-   puzzle-15
-   puzzle-16
-   puzzle-17
-   puzzle-18
-   puzzle-19
-   puzzle-20
-   puzzle-21
-   puzzle-22
-   puzzle-23
-   puzzle-24
-   puzzle-25
-   puzzle-26
-   puzzle-27
-   puzzle-28
-   puzzle-29
-   puzzle-30
-   puzzle-31
-   puzzle-32
-   puzzle-33
-   puzzle-34
-   puzzle-35
-   puzzle-36
-   puzzle-37
-   puzzle-38
-   puzzle-39
-   puzzle-40
-
-   further_steps
-   how_to_use_this_booklet
-   acknowledgements
-   the_author
-   the_translator
+.. include:: further_steps.rst
+.. include:: how_to_use_this_booklet.rst
+.. include:: acknowledgements.rst
+.. include:: the_author.rst
+.. include:: the_translator.rst
 

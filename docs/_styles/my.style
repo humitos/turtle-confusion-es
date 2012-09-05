@@ -61,9 +61,6 @@
   linkColor: navy
 
   styles:
-    bolditalic:
-      fontName: stdBoldItalic
-
     base:
       parent: null
       fontName: stdSerif
@@ -161,7 +158,7 @@
 
     heading1:
       parent: heading
-      fontName: stdBold
+      fontName: stdSerif
       fontSize: 175%
 
     heading2:
