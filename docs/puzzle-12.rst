@@ -10,7 +10,7 @@ Figura 12
 
 El Tortugo y yo estábamos en el laboratorio cuando él levantó la vista y dijo, "Por cierto, ¿Cómo vas con las figuras Logo?"
 
-"Nada mal," dije, "Estoy en la figura 12."
+"Nada mal," dije, "Estoy en la Figura 12."
 
 "Ah, sí," dijo el Tortugo sonriendo, "es la tercera de la figuras que están relacionadas. Por lo menos, es la tercera de las que te dije que están relacionadas. Cuando resuelvas la manera de decirle a la tortuga que dibuje un octógono, quizás quieras volver a pensar en la historia escondida."
 

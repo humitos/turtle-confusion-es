@@ -9,7 +9,7 @@ Figura 13
    :align: left
 
 
-El Tortugo y yo estábamos sentados en la cantina de la escuela. Luego de un rato dije, "Este es mi día de mala suerte. Estoy en la figura 13."
+El Tortugo y yo estábamos sentados en la cantina de la escuela. Luego de un rato dije, "Este es mi día de mala suerte. Estoy en la Figura 13."
 
 El Tortugo masticaba su sandwich de alfalfa. "¿Cuál es el problema?"
 

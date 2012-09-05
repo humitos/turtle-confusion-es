@@ -26,7 +26,7 @@ Figura 22
 
 "Entiendo lo que quieres decir," dije, "Entonces necesitas unas cuantas figuras para mostrar varios patrones de diferentes tipos, especialmente cuando cada tipo debe ser mostrado más de una vez."
 
-"¡*Correct*!" dijo el Tortugo. "Oh, mientras tú piensas en ésas cuestiones, quería darte una pista para una figura que está relacionada con la figura 22."
+"¡*Correct*!" dijo el Tortugo. "Oh, mientras tú piensas en ésas cuestiones, quería darte una pista para una figura que está relacionada con la Figura 22."
 
 El Tortugo me dió una hoja de papel:
 
