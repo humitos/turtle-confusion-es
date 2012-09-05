@@ -16,7 +16,7 @@ El Tortugo y yo estábamos en el laboratorio cuando él levantó la vista y dijo
 
 "No estoy progresando mucho. A veces parece como si me fuese a tomar siglos entender toda ésta cuestión," dije. 
 
-"Sí. Supongo que sería mejor que te diera un puntero para la sexta figura," dijo el Tortugo mientras tomaba la lupa y se inclinaba para examinar una pila de polvo negro que había puesto en un crisol. Hizo una pausa y luego dijo: "Harías bien en recordar, si quieres estar seguro de ganarte el pan, que siempre debes ser objetivo y pestarle atención a los hechos observables."
+"Sí. Supongo que sería mejor que te diera una pista para la sexta figura," dijo el Tortugo mientras tomaba la lupa y se inclinaba para examinar una pila de polvo negro que había puesto en un crisol. Hizo una pausa y luego dijo: "Harías bien en recordar, si quieres estar seguro de ganarte el pan, que siempre debes ser objetivo y pestarle atención a los hechos observables."
 
 "Eso es todo?" pregunté. 
 
