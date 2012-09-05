@@ -1,5 +1,5 @@
-Puzzle 2
-=========
+Figura 2
+========
 
 .. image:: _static/images/confusion-2.svg
    :height: 150px
