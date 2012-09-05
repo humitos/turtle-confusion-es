@@ -17,9 +17,9 @@ Yo estaba trabajando en el estudio cuando el Tortugo entró ajetreado y golpeó 
 
 Luego de aproximadamente una hora fui a la cocina con el manuscrito en la mano. El Tortugo levantó la mirada, expectante, y dijo, "¿Y?"
 
-"Y, ¿Qué?" dije, sacando un sandwich de la pila que él había armado.
+"Y, ¿qué?" dije, sacando un sandwich de la pila que él había armado.
 
-"¿Qué piensas?" dijo.
+"¿Qué **piensas**?" dijo.
 
 "Me gusta," dije, "realmente disfruté leerlo... Pero no es lo que esperaba. Pensé que estabas escribiendo algo sobre Logo y matemática y la resolución de problemas. Veo algunas figuras que se pueden dibujar usando Logo, pero no veo mucho de resolver problemas o de matemática. ¿Qué estás tratando de hacer?"
 
@@ -35,15 +35,15 @@ Luego de aproximadamente una hora fui a la cocina con el manuscrito en la mano. 
 
 "A - ha" dije, dándole otro mordisco al sandwich.
 
-"Vélo de esta manera," dijo el Tortugo. "Hay 'puzzles' ... Las formas geométricas... Tienes que encontrar una secuencia de comandos en Logo que hará que la tortuga en la pantalla dibuje cada forma... Necesitas pensar matemáticamente para hacerlo. Y hay 'acertijos'... Historias y poemas con pistas escondidas en ellos... Las pistas son mayormente sobre las conexiones entre los puzzles. Eso también es matemático."
+"Vélo de esta manera," dijo el Tortugo. "Hay 'figuras'... Las formas geométricas... Tienes que encontrar una secuencia de comandos en Logo que hará que la tortuga en la pantalla dibuje cada forma... Necesitas pensar matemáticamente para hacerlo. Y hay 'acertijos'... Historias y poemas con pistas escondidas en ellos... Las pistas son mayormente sobre las conexiones entre las figuras. Eso también es matemático."
 
-"¿Conexiones?" dije. "¿Quieres decir que todos los puzzles están relacionados entre sí?"
+"¿Conexiones?" dije. "¿Quieres decir que todas las figuras están relacionadas entre sí?"
 
 "Sí," dijo el Tortugo, mientras volvía su entusiasmo.
 
-"Ah-ha," dije, dejando mi sandwich. "Entonces el cuadernillo es una serie de puzzles y acertijos relacionados, y necesitas usar buenos métodos de resolución de problemas y pensamiento matemático para descubrir de qué se trata todo?"
+"Ah-ha," dije, dejando mi sandwich. "Entonces el cuadernillo es una serie de figuras y acertijos relacionados, y necesitas usar buenos métodos de resolución de problemas y pensamiento matemático para descubrir de qué se trata todo?"
 
-"Exacto! Puedes considerar el cuadernillo entero como un gran problema."
+"¡Exacto! Puedes considerar el cuadernillo entero como un gran problema."
 
 Lo miré al Tortugo por un momento: "¿Querrías parafrasear eso?"
 
@@ -55,7 +55,7 @@ Lo miré al Tortugo por un momento: "¿Querrías parafrasear eso?"
 
 "¿Porqué querrías hacer eso?" dije. "¿Porqué tener un rango tam amplio de dificultad?"
 
-"Bueno," dijo el Tortugo, "Yo creo que es importante para los maestros y los padres que se involucren profundamente en el proceso de resolución de problemas ellos mismos. Si eso ocurriera entonces debe haber acertijos que desafíen genuinamente a los adultos."
+"Bueno," dijo el Tortugo, "Yo creo que es importante para los maestros y los padres que se involucren profundamente en el proceso de resolución de problemas ellos mismos. Si eso ocurriera, entonces debe haber acertijos que desafíen genuinamente a los adultos."
 
 "¿Pero cómo pueden los alumnos manejar eso?", dije. "Seguramente no puedan progresar mucho con problemas que son difíciles para los adultos."
 
@@ -67,7 +67,7 @@ El Tortugo se dió un golpecito en la frente.
 
 "¿Cuán bueno es eso?" dije, "¿Cómo va a saber la gente cuando lo hicieron bien?"
 
-"Tienen que tomar el enfoque científico," dijo el Tortugo. "Tienen que construir sus propias teorías y luego probarlas. Tienen que buscar la consistencia en sus respuestas a los diferentes puzzles y acertijos. Tienen que trabajar juntos y discutir sus ideas. En pocos casos quizás nunca se aseguren de que van por el camino correcto. Tal como en la vida real."
+"Tienen que tomar el enfoque científico," dijo el Tortugo. "Tienen que construir sus propias teorías y luego probarlas. Tienen que buscar la consistencia en sus respuestas a las diferentes figuras y acertijos. Tienen que trabajar juntos y discutir sus ideas. En pocos casos quizás nunca se aseguren de que van por el camino correcto. Tal como en la vida real."
 
 "¡Esto es serio!" dije, frunciendo el ceño. "Será mejor que me cuentes con mas detalles."
 
@@ -79,13 +79,13 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "Desde el principio," dije. "Empieza por decirme qué hay en el cuadernillo."
 
-"Bien," dijo el Tortugo después de una pequeña pausa. "Primero, hay una serie de cuarenta puzzles Logo."
+"Bien," dijo el Tortugo después de una pequeña pausa. "Primero, hay una serie de cuarenta figuras Logo."
 
-"¿Exactamente qué es un puzzle Logo?"
+"¿Exactamente qué es una figura Logo?"
 
-"Bien, yo dibujo una figura, o un patrón, y luego te digo, *'Aquí tienes, EBN, haz que la tortuga dibuje esta figura'*, pero no te digo qué comandos Logo usar."
+"Bien, yo dibujo una forma, o un patrón, y luego te digo, *'Aquí tienes, EBN, haz que la tortuga dibuje esta figura'*, pero no te digo qué comandos Logo usar."
 
-"Entonces, ¿un puzzle Logo es una especie de figura o patrón y su solución es una serie de comandos Logo que hacen que la tortuga dibuje lo que le pido?"
+"Entonces, ¿una figura Logo es una especie de forma o patrón y su solución es una serie de comandos Logo que hacen que la tortuga dibuje lo que le pido?"
 
 "Sí," dijo el Tortugo.
 
@@ -97,9 +97,9 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "Segundo," dijo el Tortugo, "hay una serie de cuarenta acertijos... Las historias y los poemas."
 
-"No logro entender completamente la conexión entre los acertijos y los puzzles," dije. "Seguramente no necesitas resolver los acertijos para poder resolver los puzzles."
+"No logro entender completamente la conexión entre los acertijos y las figuras," dije. "Seguramente no necesitas resolver los acertijos para poder resolver las figuras."
 
-"No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para los puzzles, sobre las relaciones entre los puzzles y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío... Apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemática y Logo."
+"No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para las figuras, sobre las relaciones entre las figuras y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío... Apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemática y Logo."
 
 "¿Porqué tienes acertijos que involucran cosas fuera de Logo y matemática?" dije.
 
@@ -109,9 +109,9 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "¡Exacto!" dijo el Tortugo; se levantó y agarró mi copa para llenarla.
 
-"Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa... ¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito me da la impresión de que los puzzles Logo pueden ser demasiado fáciles para cualquiera lo suficientemente avanzado para resolver los acertijos."
+"Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa... ¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito me da la impresión de que las figuras Logo pueden ser demasiado fáciles para cualquiera lo suficientemente avanzado para resolver los acertijos."
 
-"Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, los puzzles Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que los puzzles sean resueltos como un todo... Los puzzles están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de la matemática subyacente. Esta propiedad de los puzzles Logo, sus relaciones, no está tan bien definida y no es tan fácil."
+"Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, las figuras Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que las figuras sean resueltos como un todo... Las figuras están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de la matemática subyacente. Esta propiedad de las figuras Logo, sus relaciones, no está tan bien definida y no es tan fácil."
 
 "¿Estas diciendo que la misma actividad de escribir los comandos Logo no es importante?"
 
@@ -123,7 +123,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "Pero, ¿qué pasa con los acertijos? Todavía no veo cómo puedes saber si tus respuestas a los acertijos son aproximadamente correctas siquiera," dije arrugando una ceja.
 
-"Al comparar notas, al discutir, al asegurarse que las soluciones propuestas para los acertijos coinciden con las propiedades de los puzzles Logo. Incluso, hay algunas otras pistas en cada acertijo, las cuales permiten verificaciones."
+"Al comparar notas, al discutir, al asegurarse que las soluciones propuestas para los acertijos coinciden con las propiedades de las figuras Logo. Incluso, hay algunas otras pistas en cada acertijo, las cuales permiten verificaciones."
 
 "¡Ah-ha! ¿Entonces hay información escondida dentro de los acertijos que puedes usar para probar tus respuestas?"
 
@@ -139,7 +139,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "Pero seguramente es mejor usar una computadora," dije. "Esa es la forma más fácil de averiguar si tu solución funciona."
 
-"Es cierto... Pero resolver los puzzles Logo no es la única actividad en el cuadernillo, entonces puedes desarrollar una clase fácilmente con una o dos computadoras. Por supuesto, sí necesitas otros recursos... Para resolver los acertijos necesitas un buen diccionario, un atlas, una enciclopedia y una modesta biblioteca de literatura clásica."
+"Es cierto... Pero resolver las figuras Logo no es la única actividad en el cuadernillo, entonces puedes desarrollar una clase fácilmente con una o dos computadoras. Por supuesto, sí necesitas otros recursos... Para resolver los acertijos necesitas un buen diccionario, un atlas, una enciclopedia y una modesta biblioteca de literatura clásica."
 
 El Tortugo levantó el bowl vacío de ponche y empezó a cruzar el césped. Luego se detuvo y se dió vuelta. "¿Porqué no revisas el cuadernillo tu mismo?" dijo, "Valoraría tus comentarios."
 
