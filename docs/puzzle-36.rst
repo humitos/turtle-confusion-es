@@ -28,6 +28,9 @@ El Tortugo me miró cansado, "Un pulpo... Un viejo conocido mío. Él y dos amig
 
 Le sonreí, y luego volví a mirar la nota:
 
+
+.. class:: note-puzzle-36
+
     **JXUDU NJJME AUOIT EDJTU FUDTE DCU**
 
     **NBYZC LMNEY SXYJY HXMIH GYFUF YOWUF YOWUX YHXLI H**

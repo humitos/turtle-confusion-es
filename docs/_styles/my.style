@@ -203,3 +203,8 @@
              [ROWBACKGROUNDS, [0, 0], [-1, -1], [white,white]]
              [BOX, [ 0, 0 ], [ -1, -1 ], 0, white ]
 
+
+    note-puzzle-36:
+      parent: blockquote
+      fontSize: 93%
+
