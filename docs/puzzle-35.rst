@@ -1,4 +1,4 @@
-FIGURA 35
+Figura 35
 =========
 
 .. image:: _static/images/confusion-35.svg
@@ -8,7 +8,7 @@ FIGURA 35
    :alt: Puzzle 35
    :align: left 
 
-"Sabes," le dije al Tortugo, "Me acabo de dar cuenta de que no puedo resolver ésta figura sin tener alguna idea de los patrones básicos que están debajo... Si uso dos comandos ara dibujar cada pequeña línea de segmento, la lista de comandos será enorme."
+"Sabes," le dije al Tortugo, "Me acabo de dar cuenta de que no puedo resolver ésta figura sin tener alguna idea de los patrones básicos que están debajo... Si uso dos comandos para dibujar cada pequeña línea de segmento, la lista de comandos será enorme."
 
 "Esto llama a la celebración, querido mío," dijo el Tortugo con verdadero placer, "Has llegado a un nuevo plano de entendimiento... Yo mismo no podría haberlo dicho mejor." Salió trotando a buscar lo que quedaba del ponche. 
 
@@ -22,9 +22,9 @@ El Tortugo me miró de reojo por un momento, pero decidió dejarlo pasar.
 
 "Sí," dijo el Tortugo, "¿Quieres una pista?"
 
-"Eso sería realmente reconfortante," dije, tomando. 
+"Eso sería realmente reconfortante," dije, tomando.
 
-El Tortugo pensó por un momento (siempre parecía piensar por un momento, pero estoy seguro de que tenía los acertijos preparados de antemano) y luego, respiró hondo, y recitó:
+El Tortugo pensó por un momento (siempre parecía pensar por un momento, pero estoy seguro de que tenía los acertijos preparados de antemano) y luego, respiró hondo, y recitó:
 
     **"Si tienes una embarcación en condiciones de navegar,**
 
@@ -34,5 +34,5 @@ El Tortugo pensó por un momento (siempre parecía piensar por un momento, pero 
 
     **Ofrecen libertad para en el Sol jugar."**
 
-"¿Porqué será que tengo una sensación que me hunde?" Dije. 
+"¿Porqué será que tengo una sensación que me hunde?" dije.
 

@@ -1,4 +1,4 @@
-FIGURA 34
+Figura 34
 =========
 
 .. image:: _static/images/confusion-34.svg
@@ -12,7 +12,7 @@ Cuando volví de mi clase de Sánscrito, el Tortugo estaba instalado en la cocin
 
 "¿Qué es esa asquerosidad?" pregunté amablemente, mientras me sacaba el abrigo y lo colgaba detrás de la puerta.
 
-"Me sentí con ánimos de celebrar después de haber resuleto ese acertijo anónimo. Estoy prparando una variante de nuestro bowl tradicional de ponche," dijo el Tortugo, mientras sumergía una copa en el líquido y tomaba contemplativamente. 
+"Me sentí con ánimos de celebrar después de haber resuelto ese acertijo anónimo. Estoy preparando una variante de nuestro bowl tradicional de ponche," dijo el Tortugo, mientras sumergía una copa en el líquido y tomaba contemplativamente. 
 
 "Se ve como desinfectante para ovejas, para mí," dije amablemente y alcanzando la copa. "¿Cómo crees que tomaremos todo eso antes de que fermente?" Tomé un traguito cauteloso... No estaba tan mal, en realidad. 
 

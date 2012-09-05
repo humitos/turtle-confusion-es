@@ -1,4 +1,4 @@
-FIGURA 32
+Figura 32
 =========
 
 .. image:: _static/images/confusion-32.svg

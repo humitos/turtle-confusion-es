@@ -1,4 +1,4 @@
-FIGURA 33
+Figura 33
 =========
 
 .. image:: _static/images/confusion-33.svg
@@ -14,7 +14,7 @@ Sonó el silbato del cartero, y el Tortugo salió apurado para ver qué traía. 
 
     **Si tienes úlceras infecciosas,**
 
-    **A tu hija no contagies .**
+    **A tu hija no contagies.**
 
     **Quítale a dos ratoncitos la piel,**
 
@@ -26,13 +26,17 @@ Sonó el silbato del cartero, y el Tortugo salió apurado para ver qué traía. 
 
 "Bien, yo también tengo uno," dije, inclinándome y entregándole una hoja similar de papel celeste. En ella había una pequeña matríz de números y letras:
 
-    **3			V**
 
-    **8			X**
+.. list-table::
 
-    **14		B**
-
-    **15		H**
+    * - **3**
+      - **V**
+    * - **8**
+      - **X**
+    * - **14**
+      - **B**
+    * - **15**
+      - **H**
 
 Luego de un rato el Tortugo me miró con ojos de estar acercándose al pánico. "Ahora estamos **los dos** en problemas," dijo. 
 
