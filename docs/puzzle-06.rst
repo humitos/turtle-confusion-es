@@ -26,7 +26,7 @@ El Tortugo pensó por un rato, y luego dijo, "¿Cómo es ésto?
     **Las comemos desde el centro hacia los bordes?** 
 
 
-"Los dulces son...pizza? No creo que hayas inventado poemas peores," dije, arrugando la naríz. 
+"Los dulces son... ¿Pizza? No creo que hayas inventado poemas peores," dije, arrugando la naríz. 
 
 "La buenas rimas son difíciles de encontrar," dijo el Tortugo en su defensa. "De todos modos, eso debería ayudarte a encontrar una solución simple para esta figura. Una vez que lo hayas hecho, deberías ver si puedes escribir un procedimiento que le diga a la tortuga cómo dibujar tus formas básicas."
 
