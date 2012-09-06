@@ -13,7 +13,10 @@ Yo estaba trabajando en el estudio cuando el Tortugo entró ajetreado y golpeó 
 
 "Me alegro de ser útil," dijo el Tortugo sobre su hombro, "... Debería mantenerte ocupado por unos buenos cinco minutos. Llámame si necesitas otro corte... ¡Probablemente te corte una pierna!"
 
-+++++++
+.. figure:: _static/images/dots.svg
+   :width: 300px
+   :scale: 20%
+   :align: center
 
 Luego de aproximadamente una hora fui a la cocina con el manuscrito en la mano. El Tortugo levantó la mirada, expectante, y dijo, "¿Y?"
 
@@ -71,7 +74,10 @@ El Tortugo se dió un golpecito en la frente.
 
 "¡Esto es serio!" dije, frunciendo el ceño. "Será mejor que me cuentes con mas detalles."
 
-+++++++
+.. figure:: _static/images/dots.svg
+   :width: 300px
+   :scale: 20%
+   :align: center
 
 El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos recostados en las cómodas reposeras con un bowl en una mesita ubicada entre nosotros dos. El Tortugo se inclinó y llenó su copa con lo que llamó 'ponche tradicional de celebración'.
 
@@ -146,3 +152,9 @@ El Tortugo levantó el bowl vacío de ponche y empezó a cruzar el césped. Lueg
 "Bien," dije, juntando las copas, "quizás lo haga... Pero ¿te importaría probarlo en una de mis clases primero? Me gustaría ver todo esto en acción antes de decidir."
 
 "Me alegro de ayudar," dijo el Tortugo, entrando a la casa.
+
+.. figure:: _static/images/dots.svg
+   :width: 300px
+   :scale: 20%
+   :align: center
+

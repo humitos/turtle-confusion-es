@@ -21,4 +21,8 @@ Lo ví muy poco por los próximos tres meses; se enfrascó en la biblioteca por 
 
 Pero permítanme ahora ocuparme de la narrativa a pleno; mis notas son bastante detalladas cuando se trata de eventos subsiguientes...
 
-+++++++
+.. image:: _static/images/dots.svg
+   :width: 300px
+   :scale: 20%
+   :align: center
+
