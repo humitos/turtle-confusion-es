@@ -9,7 +9,7 @@ Luego de un rato me recosté en mi silla, me estiré, y dije. "Bien... Se siente
 
 "En realidad, estaba por preguntarte si podías contarme un poco más sobre las conexiones entre las figuras de Logo y las matemáticas... No estaba seguro de estar aprendiendo ideas matemáticas."
 
-"Me encantaría," dijo el Tortugo, "pero tendría que leer primero mi documento de debate *Las Tortugas Hablan Matemáticas*... Eso te hará empezar con el pie derecho."
+"Me encantaría," dijo el Tortugo, "pero tendrías que leer primero mi documento de debate *Las Tortugas Hablan Matemáticas*... Eso te hará empezar con el pie derecho."
 
 "Buena idea," dije. "¿Ese es el que publicó el Centro de Desarrollo Curricular, Canberra, Australia (1988)?"
 
@@ -29,15 +29,15 @@ El Tortugo tomó un sorbito de su copa y pensó un momento: "Sí, podría, ahora
 
 "Gracias," dije, sacando mi cuaderno, "Veamos... Seymour Papert... The Harvester Press, 1980." 
 
-"Sí," dijo el Tortugo, con nostalgia, "1980 fue un excelente año para las tortugas. También hay unos libros muy buenos publicados por Addison-Wesley...en particular, deberías ver los primeros dos libros de David Thornburg, *Discovering Apple Logo* (1983) y *Exploring Logo Without a Computer* (1984)... Y sé que te gustará el estilo del libro de Molly y Dan Watt, *Teaching with Logo* (1986)... Sí, puedes confiar en las tortugas de Addison-Wesley."
+"Sí," dijo el Tortugo, con nostalgia, "1980 fue un excelente año para las tortugas. También hay unos libros muy buenos publicados por Addison-Wesley... En particular, deberías ver los primeros dos libros de David Thornburg, *Discovering Apple Logo* (1983) y *Exploring Logo Without a Computer* (1984)... Y sé que te gustará el estilo del libro de Molly y Dan Watt, *Teaching with Logo* (1986)... Sí, puedes confiar en las tortugas de Addison-Wesley."
 
 "¿Puedes recomendarme un libro que me ayude a aprender más sobre características más avanzadas de Logo? Tú sabes, recursividad y listas y..."
 
-"Seguro," dijo el Tortugo, rascándose la cabeza, "El libro de Hal Ableson *Logo for the Apple II* (Byte/Mgraw-hill; 1982) sigue siendo uno de los mejores, y Donald Martin, Stephen Prata, y Marijane Paulsen han escrito un muy buen libro de referencia que se llama *Apple logo Programming Primer* (SAMS; 1984), y hay..."
+"Seguro," dijo el Tortugo, rascándose la cabeza, "El libro de Hal Ableson *Logo for the Apple II* (Byte/Mgraw-hill; 1982) sigue siendo uno de los mejores, y Donald Martin, Stephen Prata, y Marijane Paulsen han escrito un muy buen libro de referencia que se llama *Apple Logo Programming Primer* (SAMS; 1984), y hay..."
 
 "¡Espera!" dije, "¡Más despacio! ¡Estoy teniendo el síndrome del calambre del escritor!"
 
-"...libros para avanzados de David Thornburg muy interesantes, *Beyond Turtle Graphics* (Addison/Wesley; 1986), y Brain Harvey, *Computer Science Logo Style* (MIT Press; 1985)... Y si quieres continuar investigando las posibilidades de Logo y las matemáticas, justo hasta la Relatividad General, entonces obtendrás mucho del libro *Turtle Geometry* de Hal Ableson y Andy diSessa (MIT Press; 1980)."
+"... libros para avanzados de David Thornburg muy interesantes, *Beyond Turtle Graphics* (Addison/Wesley; 1986), y Brain Harvey, *Computer Science Logo Style* (MIT Press; 1985)... Y si quieres continuar investigando las posibilidades de Logo y las matemáticas, justo hasta la Relatividad General, entonces obtendrás mucho del libro *Turtle Geometry* de Hal Ableson y Andy diSessa (MIT Press; 1980)."
 
 "Gracias," dije, todavía escribiendo rápido, "Eso me mantendrá ocupado por un tiempo."
 

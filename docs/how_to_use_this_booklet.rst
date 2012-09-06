@@ -5,7 +5,7 @@ Cómo usar el Cuadernillo
 
 Si estas trabajando con el material de forma individual, entonces, claramente, eres libre de proceder de la manera que mejor prefieras. Si, sin embargo, si eres parte de un 'grupo de resolución de problemas', entonces, hay un número de limitaciones que deberías tratar de observar para que la experiencia sea lo más valiosa posible para todos los miembros del grupo. Ésto es particularmente cierto si eres el 'líder' del grupo.
 
-Los líderes pueden ser los maestros, padres o personas más jóvenes. Generalmente, personas de diferentes rangos de edades estarán involucrados en los grupos; por ejemplo, padres e hijos, adolescentes y sus hermanos menores, los maestros y los alumnos. Es de fundamental importancia, es éstos casos, que los miembros del grupo que son mayores, más experimentados estén atentos a las necesidades de los miembros más jóvenes. 
+Los líderes pueden ser los maestros, padres o personas más jóvenes. Generalmente, personas de diferentes rangos de edades estarán involucrados en los grupos; por ejemplo, padres e hijos, adolescentes y sus hermanos menores, los maestros y los alumnos. Es de fundamental importancia, en éstos casos, que los miembros del grupo que son mayores, más experimentados estén atentos a las necesidades de los miembros más jóvenes. 
 
 Considero que el líder de un grupo de resolución de problemas tiene responsabilidades claramente definidas. Como líder del grupo debes tratar de:
 
@@ -16,9 +16,9 @@ Necesitan tiempo para pensar en cada problema con el que se encuentran. Necesita
 
 
 **(b) Permitirles a los miembros del grupo experimentar algo de confusión.**
-Se intenta que el material en éste cuadernillo sea de alguna manera confuso a primera vista. En la vida real, no podemos evitar sentirnos confundidos de vez en cuando. Éste sentimiento de confusión nos indica que nuestro entendimiento de una situación en particular es inadecuada... En otras palabras, la confusión rerpesenta una oportunidad para aprender. 
+Se intenta que el material en éste cuadernillo sea de alguna manera confuso a primera vista. En la vida real, no podemos evitar sentirnos confundidos de vez en cuando. Éste sentimiento de confusión nos indica que nuestro entendimiento de una situación en particular es inadecuada... En otras palabras, la confusión representa una oportunidad para aprender. 
 
-Los adultos deberían reconocer el peligro que existe en proteger a los jóvenes de los sentimientos de confusión. La vida no nos ofrece sus problemas en una secuencia de paquetitos cuidadosamente graduada, cada una de las cuales se puede resolver por el 'alumno promedio' en una hora de clase. Se lo debemos a nuestros alumnos, a la posibilidad de sentirse confundidos a veces; a permitirles aprender de lidiar con, y hasta beneficiarse de, la confusión; a permitirles desarrollar respuestas, en lugar de entrar en pánico, frente a situaciones en las que pueden sentirse inicialmente sobrepasados.
+Los adultos deberían reconocer el peligro que existe en proteger a los jóvenes de los sentimientos de confusión. La vida no nos ofrece sus problemas en una secuencia de paquetitos cuidadosamente graduada, cada una de los cuales se puede resolver por el 'alumno promedio' en una hora de clase. Se lo debemos a nuestros alumnos, a la posibilidad de sentirse confundidos a veces; a permitirles aprender de lidiar con, y hasta beneficiarse de, la confusión; a permitirles desarrollar respuestas, en lugar de entrar en pánico, frente a situaciones en las que pueden sentirse inicialmente sobrepasados.
 
 **(c) Mantener las sesiones de resolución de problemas de manera relajada.**
 La asimilación de ideas nuevas lleva tiempo; aunque una figura haya sido resuelta, puede haber un beneficio en mirar a la solución otra vez unos días después... ¿Se puede encontrar un enfoque mejor (más simple)? Es importante permitir que los problemas se desparramen y den vueltas en las cabezas de las personas. Bajo ninguna circunstancia debes exigir a la clase completar una figura por sesión. Mantén un enfoque sin preocupaciones... Trata de balancear la seriedad con la diversión. 
@@ -31,25 +31,41 @@ Es una buena idea intentar hacer todas las figuras y acertijos eventualmente - h
 **(e) Asegurarte de que todos los miembros del grupo sepan cómo usar la computadora, si es que usan una, y que sepan suficiente Logo como para empezar.**
 Como quise producir el cuadernillo para que pueda ser usado con cualquier implementación de Logo, no he incluído detalles específicos de la máquina. Por lo tanto, no he tocado el tema del lenguaje Logo, o los procedimientos para usar la computadora.
 
-Éstas omisiones no deberían ser una limitación... Hay muchos libros que cubren éstos temas (véase, por ejemplo, la pequeña bibliografía mencionada en la última sección), y hay un perfeccionamiento constante y creciente entre los maestros, alumnos y padres. Además, las figuras Logo que se presentan pueden ser dibujadas un pequeño subgrupo de comandos Logo. En LCSI Logo Apple son:
+Éstas omisiones no deberían ser una limitación... Hay muchos libros que cubren éstos temas (véase, por ejemplo, la pequeña bibliografía mencionada en la última sección), y hay un perfeccionamiento constante y creciente entre los maestros, alumnos y padres. Además, las figuras Logo que se presentan pueden ser dibujadas con un pequeño subgrupo de comandos Logo. En LCSI Logo Apple son:
 
-    AVANZA (AV) 		RETORCEDE (RE) 		GIRA A LA DERECHA (GD) 		GIRA A LA IZQUIERDA (GI)
-    SUBIR LÁPIZ (SL) 	BAJAR LÁPIZ (BL)	REPETIR
+.. list-table::
+
+    * - AVANZA (AV)
+      - RETORCEDE (RE)
+      - GIRA A LA DERECHA (GD)
+      - GIRA A LA IZQUIERDA (GI)
+    * - SUBIR LÁPIZ (SL)
+      - BAJAR LÁPIZ (BL)
+      - REPETIR
+      -
 
 Los comandos que se necesitan para crear y editar procedimientos incluyen
 
-    PARA 			FIN				EDITOR (ED)
+.. list-table::
+
+    * - PARA
+      -	FIN
+      - EDITOR
 
 Además del comando 
 
-					BORRAR PANTALLA (BP)
+.. list-table::
+
+    * - BORRAR PANTALLA (BP)
 
 **(f) Asegurarte que los siguientes recursos adicionales estén disponibles para los miembros del grupo:**
 
-    UN BUEN DICCIONARIO
-    UN ATLAS
-    UNA BUENA ENCICLOPEDIA
-    UNA MODESTA BIBLIOTECA DE LITERATURA CLÁSICA
+.. list-table::
+
+    * - UN BUEN DICCIONARIO
+    * - UN ATLAS
+    * - UNA BUENA ENCICLOPEDIA
+    * - UNA MODESTA BIBLIOTECA DE LITERATURA CLÁSICA
 
 - los acertijos están diseñados para que el proceso de resolverlos se transforme en un proyecto comunitario. Se debe incentivar a los miembros del grupo a compartir sus recursos. 
 
