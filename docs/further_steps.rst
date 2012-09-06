@@ -1,5 +1,5 @@
-Siguientes Pasos
-================
+**SIGUIENTES PASOS**
+====================
 
 El Tortugo y yo estábamos afuera al lado del estanque estudiando y adentrándonos a tomar otro bowl de ponche de celebración. Había un excelente queso y pan italiano en la mesa. 
 
@@ -49,7 +49,9 @@ Lo miré un rato largo mientras guardaba mi cuaderno: "Seguramente no quieres de
 
 "Me niego a acercarme a la carnada," dije, tirando unas migas de pan en el estanque. 
 
--------
-
+.. figure:: _static/images/dots.svg
+   :width: 300px
+   :scale: 20%
+   :align: center
 
 

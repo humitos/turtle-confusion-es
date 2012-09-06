@@ -1,5 +1,5 @@
-Cómo usar el Cuadernillo
-========================
+**CÓMO USAR EL CUADERNILLO**
+============================
 
 Éste cuadernillo ha sido diseñado para que sea compartido. Ésto es, intenta apoyar el proceso 'colaborativo de resolución de problemas' en el cual los problemas se tratan entre dos, o mas, personas trabajando en conjunto y compartiendo ideas y perspectivas. 
 
