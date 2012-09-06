@@ -3,7 +3,6 @@ Figura 4
 
 
 .. list-table::
-   :class: mytable
 
    * - .. image:: _static/images/confusion-4.svg
           :height: 300px
