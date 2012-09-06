@@ -32,14 +32,12 @@ Figura 4
 "Bien," dijo el Tortugo, "tener que usar series limitadas de comandos le ayuda a la gente a descubrir cosas nuevas acerca de Logo y las matemáticas... Maneras diferentes de usar los comandos... Inténtalo tú mismo. Oh, y piensa en ésto cuando hayas resuelto la figura." Me entregó la hoja con el acertijo. 
 
 
+.. line-block::
+
     **Dijo el Senador Miramas, "Me siento ambivalente,**
-
     **He llegado a pensar que todos los partidos son equivalentes,**
-
     **Incluso aquellos a los extremos de la política persuasión,**
-
     **Tienden a crear el mismo Estado de la Nación."**
-
 
 "¿Quién es el Senador Miramas?" dije. 
 

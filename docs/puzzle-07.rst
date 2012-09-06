@@ -27,12 +27,11 @@ El Tortugo dejó su libro sobre la mesa y consideró mi pedido por un momento. "
 
 El Tortugo hizo una pausa un momento. "¿Cómo es ésto?" dijo. 
 
+.. line-block::
+
     **"Si se explotan suficientes dispositivos de uranio,**
-
     **Nuestro planeta se volverá de alguna manera apasionante,**
-
     **Terminaremos teniendo hierbas y condimentos brillantes,**
-
     **Y huesos que dan un brillo interno."**
 
 Yo estaba desconcertado. 

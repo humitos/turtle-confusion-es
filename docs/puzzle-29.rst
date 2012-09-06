@@ -12,20 +12,15 @@ Estábamos sentados en frente del fuego del living. El Tortugo estaba leyendo su
 
 "Ahem... Ésta es mi más reciente creación...
 
+.. line-block::
+
     **Me dijeron que el hombre aprendió a contar**
-
     **Mirando sus dedos,**
-
     **Lo hizo la gente tiempo atrás**
-
     **Su legado logra perdurar**
-
     **Pero si yo hubiese creado las reglas para contar**
-
     **Creo que sería divertido,**
-
     **Hacer que los números sean como digo;**
-
     **Uno Dos Tres Cuatro Pulgar.**
 
 ...¿Y bien? ¿Qué te parece?"

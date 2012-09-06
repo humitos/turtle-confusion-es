@@ -26,14 +26,11 @@ Miró otra vez la pantalla y dijo, "¿Quieres una pista para otra figura a la qu
 
 "No, no lo es." El Tortugo buscó en su bolsillo un pedacito de papel todo arrugado, respiró hondo y recitó:
 
+.. line-block::
+
     **"Tweedsmuir era un amigo muy alegre,**
-
     **Hacía a sus amigos temblar de la risa,**
-
     **Decía, 'Por Dios,**
-
     **Cómo tiemblan,**
-
     **Tomaré medidas para ser mucho más suave'."**
 
- 

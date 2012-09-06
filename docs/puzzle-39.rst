@@ -10,6 +10,8 @@ Figura 39
 
 Yo estaba trabajando en el estudio cuando entró el Tortugo con una sonrisa enigmática en la cara. Sin decir una palabra me dió una pequeña hoja de papel celeste. Había un grupo de letras escrito. 
 
+.. line-block::
+
     **YHWH**
 
 Y estaba firmada, *'Del Que Vino Del Otro Lado Del Río'*. 
