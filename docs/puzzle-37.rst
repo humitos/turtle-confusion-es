@@ -32,12 +32,11 @@ El Tortugo saltó repentinamente de su silla y se dirigió hacia mí. Yo dí un 
 
 El Tortugo ni lo dudó; debe haber sido toda esa adrenalina:
 
+.. line-block::
+
     **"Andrómeda se levanta, quintaescencia destilada,**
-
     **Cassiopeia y Cefeo rechazadas,**
-
     **En el Grupo de Messier ha tomado armas,**
-
     **Perseo, su amor, yace abandonada."**
 
 "¿Las tortugas pueden sufrir de hidrofobia?" Pregunté. 

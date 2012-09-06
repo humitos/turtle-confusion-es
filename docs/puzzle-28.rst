@@ -32,12 +32,11 @@ El Tortugo me tiró una mirada fulminante; luego, sin una palabra, me alcanzó u
 
 Miré el papel: 
 
+.. line-block::
+
     **Thalia disfruta de un buen ataque de risa,**
-
     **Y la poesía está primera en su lista,**
-
     **Pero dale una actuación en una adivinanza,**
-
     **Y a ninguna perderá de vista.**
 
 "Gracias por las pistas adicionales," le dije mirando hacia el hall. 

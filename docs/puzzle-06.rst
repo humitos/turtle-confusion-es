@@ -16,15 +16,12 @@
 
 El Tortugo pensó por un rato, y luego dijo, "¿Cómo es ésto?
 
+.. line-block::
 
     **¿Alguna vez has pensado en la forma en que una pizza,**
-
     **Mientras te enriedas en cada porción sabrosa,**
-
     **Se come como a los pasteles y dulces,**
-
     **Las comemos desde el centro hacia los bordes?** 
-
 
 "Los dulces son... ¿Pizza? No creo que hayas inventado poemas peores," dije, arrugando la naríz. 
 

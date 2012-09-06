@@ -22,14 +22,12 @@ Diez minutos después estábamos caminando por el caminito que lleva al lago. El
 
 "¿Qué? ¿Dónde estaba?" dijo el Tortugo. "Oh, sí, una pista... Bien, ¿Qué tal ésto?: 
 
+.. line-block::
+
     **El preparado de Joe Kesselring no era tarta,**
-
     **Pero la mezcla, de todos atrajo las miradas,**
-
     **La magia, es verdad,**
-
     **Vino de mezclar una pista,**
-
     **Con alas de una mosca neuróptera."**
 
 "Vapores de pintura," dije. 

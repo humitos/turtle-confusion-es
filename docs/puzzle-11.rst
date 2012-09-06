@@ -19,12 +19,11 @@ El Tortugo me miró especulativamente, con las cejas levantadas, y luego dijo, "
 
 Abrí el cuadernillo en la Figura 11 y leí:
 
+.. line-block::
+
     **Para resolver las figuras debes guiar a nuestra tortuga durante el baile,**
-    
     **Si hablas el idioma Logo hará piruetas y brincará,**
-
     **Pero recuerda, mientras trabajas y buscas las ideas oscuras,**
-
     **Que sus tropezones son todos atractivos para una Farancia abacura.**
 
 Miré al Tortugo y suspiré. "Ése es un buen consejo," dije. 

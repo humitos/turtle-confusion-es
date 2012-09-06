@@ -205,6 +205,10 @@
 
 
     note-puzzle-36:
-      parent: blockquote
       fontSize: 93%
+
+    lineblock:
+      parent: base
+      leading: 10
+      leftIndent: 20
 

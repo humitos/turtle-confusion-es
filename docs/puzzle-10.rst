@@ -23,12 +23,11 @@ El Tortugo entró a la cocina con el cuadernillo en la mano. "Sabes EBN," dijo c
 
 "Bien," dijo el Tortugo mientras se sentaba a demoler su desayuno habitual de seis huevos. Miró el plato por un momento y luego dijo, "En realidad, hay seis figuras que son parte de la historia escondida. Aquí va una pista para ayudarte a encontrar dos más:
 
+.. line-block::
+
     **'No te hagas el vivo,' dijo el Tortugo, 'es muy temprano,**
-
     **Aún tienes que resolver de manera cíclica esta figura,**
-
     **Que relaciona otras dos figuras a la figura del pentágono,**
-
     **Tal como el neón esta integrado por flúor e hidrógeno.'**
 
 "Suena a mucho aire caliente para mí," dije, poniéndole un poco más de salsa a mis huevos. 

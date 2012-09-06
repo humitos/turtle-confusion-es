@@ -26,12 +26,11 @@ El Tortugo me miró de reojo por un momento, pero decidió dejarlo pasar.
 
 El Tortugo pensó por un momento (siempre parecía pensar por un momento, pero estoy seguro de que tenía los acertijos preparados de antemano) y luego, respiró hondo, y recitó:
 
+.. line-block::
+
     **"Si tienes una embarcación en condiciones de navegar,**
-
     **Y quieres algo en común con la diversión,**
-
     **A las Islas Oxley, y a Cabo Wessel debes viajar,**
-
     **Ofrecen libertad para en el Sol jugar."**
 
 "¿Porqué será que tengo una sensación que me hunde?" dije.

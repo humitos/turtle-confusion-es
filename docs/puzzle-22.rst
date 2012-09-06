@@ -30,25 +30,17 @@
 
 El Tortugo me dió una hoja de papel:
 
+.. line-block::
+
     **Conocí a Liz un día en Noviembre pasado,**
-
     **Su silueta no he olvidado,**
-
     **Sus medidas tienden a crecer,**
-
     **De la cabeza a los pies,**
-
     **A la clase de las pirámides se ha integrado.**
 
-
     **Canciones con ritmo a Liz le encanta cantar,**
-
     **Sorprendentemente limpio es su articular,**
-
     **Pero de una cuarta es su rango,**
-
     **Su timbre es algo extraño,**
-
     **Y de sus pies las notas parecen sonar.**
 
- 

@@ -34,10 +34,10 @@
 
 "Tal como en la vida real," dijo el Tortugo. "Por ejemplo, piensa en el siguiente acertijo:
 
+.. line-block::
+
     **No es West Point, pero más húmedo.**
-
     **No es Worcester, pero más occidental.**
-
     **No es Wabuk, pero amurado."**
 
 "Tal como en la vida real," dije. 
