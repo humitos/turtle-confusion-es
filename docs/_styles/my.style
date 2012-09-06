@@ -212,3 +212,8 @@
       leading: 10
       leftIndent: 20
 
+    topic-title:
+      parent: base
+      spaceBefore: 30
+      spaceAfter: 5
+
