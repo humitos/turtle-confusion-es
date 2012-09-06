@@ -21,7 +21,7 @@ Luego de aproximadamente una hora fui a la cocina con el manuscrito en la mano. 
 
 "¿Qué **piensas**?" dijo.
 
-"Me gusta," dije, "realmente disfruté leerlo... Pero no es lo que esperaba. Pensé que estabas escribiendo algo sobre Logo y matemática y la resolución de problemas. Veo algunas figuras que se pueden dibujar usando Logo, pero no veo mucho de resolver problemas o de matemática. ¿Qué estás tratando de hacer?"
+"Me gusta," dije, "realmente disfruté leerlo... Pero no es lo que esperaba. Pensé que estabas escribiendo algo sobre Logo y las matemáticas y la resolución de problemas. Veo algunas figuras que se pueden dibujar usando Logo, pero no veo mucho de resolver problemas o de matemáticas. ¿Qué estás tratando de hacer?"
 
 "Es una larga historia," empezó el Tortugo, "..."
 
@@ -111,7 +111,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa... ¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito me da la impresión de que las figuras Logo pueden ser demasiado fáciles para cualquiera lo suficientemente avanzado para resolver los acertijos."
 
-"Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, las figuras Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que las figuras sean resueltos como un todo... Las figuras están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de la matemática subyacente. Esta propiedad de las figuras Logo, sus relaciones, no está tan bien definida y no es tan fácil."
+"Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, las figuras Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que las figuras sean resueltos como un todo... Las figuras están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de las matemáticas subyacentes. Esta propiedad de las figuras Logo, sus relaciones, no está tan bien definida y no es tan fácil."
 
 "¿Estas diciendo que la misma actividad de escribir los comandos Logo no es importante?"
 
