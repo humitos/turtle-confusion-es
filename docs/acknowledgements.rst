@@ -1,5 +1,5 @@
-Agradecimientos
-===============
+**AGRADECIMIENTOS**
+===================
 
 El enfoque de resolución de problemas presentado en éste cuadernillo ha ido creciendo durante varios años. Durante ese tiempo he absorvido ideas de muchas fuentes - de investigaciones literarias y monografías de vairas áreas, de mis colegas científicos y educacionales, de los padres, maestros y niños con los que he trabajado. 
 
