@@ -4,7 +4,7 @@
 .. image:: _static/images/confusion-13.svg
    :height: 300px
    :width: 300px
-   :scale: 50 %
+   :scale: 65 %
    :alt: Puzzle 13
    :align: left
 

@@ -3,7 +3,7 @@
 
 .. image:: _static/images/confusion-24.svg
    :height: 300px
-   :scale: 50 %
+   :scale: 80 %
    :alt: Puzzle 24
    :align: left
 
