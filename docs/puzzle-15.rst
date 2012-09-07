@@ -26,12 +26,11 @@ El Tortugo tiró sus guantes de jardinería en el banco y miró los dibujos que 
 
 El Tortugo respiró hondo y recitó:
 
+.. line-block::
+
     **"El pentáculo es útil para hacer hechizos y demás,**
-
     **Te guiará por el camino del jardín de tu mente,**
-
     **Quizás quieras alimentar a la tortuga con algún brebaje de bruja,**
-
     **Los arenques y la salsa de tomate te ayudarán a cuidar de ella."**
 
 Hizo una pausa. "¿Alguna pregunta?"

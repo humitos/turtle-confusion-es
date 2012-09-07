@@ -12,12 +12,11 @@ Sonó el silbato del cartero, y el Tortugo salió apurado para ver qué traía. 
 
 "Dios mío," dijo el Tortugo, con una hoja celeste de papel en la mano, "escucha ésto...
 
+.. line-block::
+
     **Si tienes úlceras infecciosas,**
-
     **A tu hija no contagies.**
-
     **Quítale a dos ratoncitos la piel,**
-
     **Y remójalos en agua."**
 
 "¿Quién diablos te envió eso?" pregunté. 

@@ -14,12 +14,11 @@ Encontré al Tortugo en el estudio. Lucía decididamente preocupado, no la desen
 
 "Me temo que sí," dijo el Tortugo sin levantar la mirada, "Sólo que ésta no es anónima." Me pasó la hoja de papel suspirando. 
 
+.. line-block::
+
     **Saludos de Módulo Ocho y su gente,**
-
     **Acá ya nos comimos a Serpiente Serpentosa y a su esposa,**
-
     **Este acertijo para tí tuvimos en mente,**
-
     **Comienza con la línea uno para que no te cueste.**
 
 "¿Quién es Módulo Ocho?" Pregunté. 
@@ -28,12 +27,11 @@ El Tortugo me miró cansado, "Un pulpo... Un viejo conocido mío. Él y dos amig
 
 Le sonreí, y luego volví a mirar la nota:
 
+.. line-block::
+
     **JXUDU NJJME AUOIT EDJTU FUDTE DCU**
-
     **NBYZC LMNEY SXYJY HXMIH GYFUF YOWUF YOWUX YHXLI H**
-
     **NBYMY WIHXE YSXYJ YHXMI HUNBI OMUHX IZWUY MULME CHMGY H**
-
     **TEEMA XHVXT GLHYM AXPHK EWMXX FTQAO QMZEA RFTQI ADXP**
 
 "¿Cuándo empezamos?" Pregunté. No esperé una respuesta; al Tortugo le gusta estar primero en el negocio de resolución de figuras. 

@@ -24,14 +24,12 @@ El Tortugo levantó la vista y pensó que yo capté algún destello de gratitud 
 
 Pensó por un momento y después garabateó algunas líneas en un papel. Me pasó el papel a mí y lo leí:
 
+.. line-block::
+
     **Finn y compañía, de los miedos de Jim se burlaban,**
-
     **Prácticamente hasta hacerlo llorar no paraban,**
-
     **El pobre tipo decía,**
-
     **¡Desearía estar muerto!**
-
     **Cuando esas palabras de bruja en sus oídos escuchaba.** 
 
 "¿Bien?" dijo el Tortugo. 
