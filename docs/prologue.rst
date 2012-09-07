@@ -1,7 +1,7 @@
 **PRÓLOGO**
 ===========
 
-Durante los últimos cinco años el Tortugo y yo nos hemos convertido en firmes amigos. Hemos tenido nuestras diferencias de opiniones, por supuesto; él con su dedicación a la investigación en matemática y ciencias y yo con una visión educativa de las mismas materias. Pero, dentro de todo, hemos aprendido mucho el uno del otro y nos hemos divertido en el proceso.
+Durante los últimos cinco años el Tortugo y yo nos hemos convertido en firmes amigos. Hemos tenido nuestras diferencias de opiniones, por supuesto; él con su dedicación a la investigación en las matemáticas y ciencias y yo con una visión educativa de las mismas materias. Pero, dentro de todo, hemos aprendido mucho el uno del otro y nos hemos divertido en el proceso.
 
 Un tiempito atrás, mientras repasaba las notas que había escrito en esos años, no pude evitar sentir que nuestras mas agitadas discusiones podrían tener valor para una audiencia mas amplia. Estaba nuestro debate sobre Las Trampas de la Tortuga Terrible, estaba La Gran Discusión Circular, y muchas otras que eran igualmente memorables. Pero una discusión en particular me llamó la atención por ser sumamente apropiada para probar mi hipótesis; en ansias de un nombre mejor lo habíamos llamado *La Confusión de la Tortuga*.
 
