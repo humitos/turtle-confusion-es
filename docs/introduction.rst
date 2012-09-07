@@ -101,7 +101,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para las figuras, sobre las relaciones entre las figuras y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío... Apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemática y Logo."
 
-"¿Porqué tienes acertijos que involucran cosas fuera de Logo y matemática?" dije.
+"¿Porqué tienes acertijos que involucran cosas fuera de Logo y las matemáticas?" dije.
 
 "Esa es otra larga historia... Pero la idea principal es plantear una situación problemática que sea como en la vida real. Los problemas reales involucran muchos factores, y sus soluciones son usualmente para nada obvias... Quería que el cuadernillo sea así."
 
@@ -109,7 +109,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "¡Exacto!" dijo el Tortugo; se levantó y agarró mi copa para llenarla.
 
-"Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa... ¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito me da la impresión de que las figuras Logo pueden ser demasiado fáciles para cualquiera lo suficientemente avanzado para resolver los acertijos."
+"Gracias," dije, mientras me alcanzaba la copa. "Una cosa todavía me preocupa... ¿Cómo sabes que el nivel de dificultad es el adecuado? Cuando leo el manuscrito, me da la impresión de que las figuras Logo pueden ser demasiado fáciles para cualquiera que esté lo suficientemente avanzado para resolver los acertijos."
 
 "Sí. Esa es una buena pregunta," dijo el Tortugo. Se volvió a sentar y se quedó mirando fijo a través del jardín. Después de un rato dijo: "Bueno, las figuras Logo no se supone que sean demasiado difíciles; necesitan ser accesibles para principiantes. Pero, incluso más importante, se intenta que las figuras sean resueltos como un todo... Las figuras están relacionados de varias maneras, y un intento de entender esas relaciones, y de **discutirlas**, revelará mucho de las matemáticas subyacentes. Esta propiedad de las figuras Logo, sus relaciones, no está tan bien definida y no es tan fácil."
 

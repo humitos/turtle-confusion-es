@@ -19,7 +19,7 @@ El Tortugo dejó su libro sobre la mesa y consideró mi pedido por un momento. "
 
 "Te diré lo que haré," dijo el Tortugo, ignorando mi cumplido, "Te daré una pista para una figura mas difícil que está relacionada con ésta."  
 
-"¿Qué es un **pista**? dije. 
+"¿Qué es una **pista**? dije. 
 
 "Una pista es un acertijo que tiene un solo número como solución; el número representa una secuencia numérica de otra figura en el cuadernillo. En algunos casos la figura con la que lo relaciona será una figura más difícil, en otros casos, más fácil." 
 
