@@ -47,6 +47,7 @@ Considero que el líder de un grupo de resolución de problemas tiene responsabi
         * - SUBIR PLUMA
           - BAJAR PLUMA
           - REPETIR
+          -
           
 
     El comando que se necesita para crear procedimientos es
