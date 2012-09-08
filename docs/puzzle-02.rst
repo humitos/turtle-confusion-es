@@ -25,9 +25,9 @@ El Tortugo me dió una hoja de papel. "Lee este acertijo," dijo.
 
 .. line-block::
 
-    **Una mariposa flotaba delicadamente y se posó en una rama cerca de una oruga hambrienta. La mariposa, viendo bajo su probóscide a la oruga, dijo, "Hazte a un lado, bestia ordinaria."**
+    **Una mariposa flotaba delicadamente y se posó en una rama cerca de una oruga hambrienta. La mariposa, viendo bajo su probóscide a la oruga, dijo, "Hazte a un lado, ordinaria bestia."**
 
-    **La oruga miró hacia arriba mientras masticaba y dijo, con la boca llena, "Debes pensar que eres especial, mi señora, pero piensa en tus orígenes. También, pido que recuerdes mi versatilidad; ¿Tu puedes ... (se escucha un ERUCTO) perdón... Reallizar el Gran Cambio?"**
+    **La oruga miró hacia arriba mientras masticaba y dijo, con la boca llena, "Debes pensar que eres especial, mi señora, pero piensa en tus orígenes. También, pido que recuerdes mi versatilidad; ¿Tu puedes ... (se escucha un ERUCTO) perdón... Realizar el Gran Cambio?"**
 
 Miré hacia arriba y me encontré con la mirada del Tortugo. "¿Todos tienen acertijos?" dije. Él asintió con la cabeza.  
 

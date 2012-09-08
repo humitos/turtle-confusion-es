@@ -29,8 +29,8 @@ Miró otra vez la pantalla y dijo, "¿Quieres una pista para otra figura a la qu
 .. line-block::
 
     **"Tweedsmuir era un amigo muy alegre,**
-    **Hacía a sus amigos temblar de la risa,**
-    **Decía, 'Por Dios,**
-    **Cómo tiemblan,**
-    **Tomaré medidas para ser mucho más suave'."**
+    **A sus amigos temblar de la risa hacía,**
+    **'Por Dios,**
+    **Cómo tiemblan,' decía**
+    **Para ser más suave tomaré medidas'."**
 

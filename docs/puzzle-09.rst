@@ -24,9 +24,9 @@ El Tortugo se dió vuelta para salir del estudio. En la puerta se detuvo y giró
 .. line-block::
 
     **Los insectos están todos muertos, te sientes como Lister,**
-    **Tienes una figura para Clio, una mas para cada hermana,**
-    **Y luego te enteras, desde una guardia en la llanura,** 
-    **Que tú y la Tortuga tiene visiones complementarias."**
+    **Tienes una figura para Clio, una mas para cada sister,**
+    **Y luego te enteras, desde un centinela de Planilandia,** 
+    **Que tú y la Tortuga tienen visiones complementarias."**
 
 Me quejé. "Por favor, vete," dije. 
 

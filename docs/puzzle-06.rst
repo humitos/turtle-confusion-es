@@ -29,7 +29,7 @@ El Tortugo pensó por un rato, y luego dijo, "¿Cómo es ésto?
 
 "Oh, no," dije, "¡Basta de complejidad! ¿Qué es un procedimiento?"
 
-"Es muy fácil," dijo el Tortugo, levantándose con dificultad de su sillón para alcanzarme una copia de *Enseñar con Logo* por Molly y Dan Watt. "Lee esto." 
+"Es muy fácil," dijo el Tortugo, levantándose con dificultad de su sillón para alcanzarme una copia de *Teaching with Logo* por Molly y Dan Watt. "Lee esto." 
 
 "Caramba, gracias," dije. 
 

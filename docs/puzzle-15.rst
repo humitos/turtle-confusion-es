@@ -29,9 +29,9 @@ El Tortugo respiró hondo y recitó:
 .. line-block::
 
     **"El pentáculo es útil para hacer hechizos y demás,**
-    **Te guiará por el camino del jardín de tu mente,**
-    **Quizás quieras alimentar a la tortuga con algún brebaje de bruja,**
-    **Los arenques y la salsa de tomate te ayudarán a cuidar de ella."**
+    **Por el camino del jardín de tu mente te guiará,**
+    **Alimentar a la tortuga con algún brebaje de bruja quizás querrás**
+    **Los arenques y la salsa de tomate a cuidar de ella te ayudarán."**
 
 Hizo una pausa. "¿Alguna pregunta?"
 
