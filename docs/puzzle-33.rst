@@ -14,10 +14,10 @@ Sonó el silbato del cartero, y el Tortugo salió apurado para ver qué traía. 
 
 .. line-block::
 
-    **Si tienes úlceras infecciosas,**
+    **Si úlceras infecciosas tienes,**
     **A tu hija no contagies.**
     **Quítale a dos ratoncitos la piel,**
-    **Y remójalos en agua."**
+    **Y en agua remójales."**
 
 "¿Quién diablos te envió eso?" pregunté. 
 
