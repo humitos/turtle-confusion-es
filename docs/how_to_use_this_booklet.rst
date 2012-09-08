@@ -36,32 +36,31 @@ Considero que el líder de un grupo de resolución de problemas tiene responsabi
 
     Como quise producir el cuadernillo para que pueda ser usado con cualquier implementación de Logo, no he incluído detalles específicos de la máquina. Por lo tanto, no he tocado el tema del lenguaje Logo, o los procedimientos para usar la computadora.
 
-    Éstas omisiones no deberían ser una limitación... Hay muchos libros que cubren éstos temas (véase, por ejemplo, la pequeña bibliografía mencionada en la última sección), y hay un perfeccionamiento constante y creciente entre los maestros, alumnos y padres. Además, las figuras Logo que se presentan pueden ser dibujadas con un pequeño subgrupo de comandos Logo. En LCSI Logo Apple son:
+    Éstas omisiones no deberían ser una limitación... Hay muchos libros que cubren éstos temas (véase, por ejemplo, la pequeña bibliografía mencionada en la última sección), y hay un perfeccionamiento constante y creciente entre los maestros, alumnos y padres. Además, las figuras Logo que se presentan pueden ser dibujadas con un pequeño subgrupo de comandos Logo. En Turtle Art [#]_ son:
 
     .. list-table::
 
-        * - AVANZA (AV)
-          - RETORCEDE (RE)
-          - GIRA A LA DERECHA (GD)
-          - GIRA A LA IZQUIERDA (GI)
-        * - SUBIR LÁPIZ (SL)
-          - BAJAR LÁPIZ (BL)
+        * - ADELANTE
+          - ATRÁS
+          - DERECHA
+          - IZQUIERDA
+        * - SUBIR PLUMA
+          - BAJAR PLUMA
           - REPETIR
-          -
+          
 
-    Los comandos que se necesitan para crear y editar procedimientos incluyen
+    El comando que se necesita para procedimientos es
 
     .. list-table::
 
-        * - PARA
-          -	FIN
-          - EDITOR
-
+        * - ACCIÓN
+          
+          
     Además del comando 
 
     .. list-table::
 
-        * - BORRAR PANTALLA (BP)
+        * - LIMPIAR
 
 .. topic:: (f) Asegurarte que los siguientes recursos adicionales estén disponibles para los miembros del grupo:
 
@@ -85,5 +84,7 @@ Considero que el líder de un grupo de resolución de problemas tiene responsabi
     He escrito éste cuadernillo no sólo para estudiantes, sino también para maestros y padres. Espero que los maestros y padres vean en él una oportunidad para enriquecer su propio aprendizaje. Creo firmemente que las mejores clases, y los mejores hogares, son aquéllos en los que los niños y los adultos aprenden juntos. 
 
     Asegúrate de poder admitir no saber las respuestas - entonces serás libre de participar en los procesos grupales. Sobre todo - ¡disfruta la aventura!
+
+.. [#] N. del T.: Se decidió traducir los comandos Logo de Turtle Art, ya que los que se mencionan en el original son de LSCI Apple Logo y tienen una implementación diferente. Para que el grupo de comandos sea consistente con los que existen en Turtle Art, los comandos TO (PARA), END (FIN) y EDIT (EDITOR), fueron reemplazados por ACCIÓN. 
 
 
