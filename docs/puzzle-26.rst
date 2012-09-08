@@ -33,10 +33,10 @@ Figura 26
 .. line-block::
 
     **Dijo Bill Constante en su ronda,**
-    **'Es un placer interpretar el crimen,**
+    **'Es un placer el crimen interpretar,**
     **Siempre y cuando puedas entender,**
     **Que las ideas que crecen,**
-    **Como motivo y método deber competir.'...** 
+    **Como motivo y método competir deben.'...** 
 
 "Criminal," dije. 
 
