@@ -38,7 +38,7 @@ Figura 38
 
     **No es West Point, pero más húmedo.**
     **No es Worcester, pero más occidental.**
-    **No es Wabuk, pero amurado."**
+    **No es Wabuk, pero con muros."**
 
 "Tal como en la vida real," dije. 
  
