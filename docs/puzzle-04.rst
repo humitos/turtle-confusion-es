@@ -20,11 +20,11 @@
 
 "Tiene sentido," dije. 
 
-"Segundo," levantó otro dedo, "Les pido que dibujen la forma usando sólo los comandos AVANZAR y DERECHA... Por supuesto que pueden ingresar cualquier número que quieran con estos dos comandos." 
+"Segundo," levantó otro dedo, "Les pido que dibujen la forma usando sólo los comandos ADELANTE y DERECHA... Por supuesto que pueden ingresar cualquier número que quieran con estos dos comandos." 
 
 "Y...¿Tercero?" dije, levantando un dedo. 
 
-"Tercero, les pido que dibujen la figura usando sólo tres comandos... AVANZAR, RETROCEDER y DERECHA 90. En éste caso, deben usar 90, y sólo 90 con el comando DERECHA."  
+"Tercero, les pido que dibujen la figura usando sólo tres comandos... ADELANTE, ATRÁS y DERECHA 90. En éste caso, deben usar 90, y sólo 90 con el comando DERECHA."  
 
 "Muy ingenioso," dije. "Pero ¿Cuál es el punto?"
 
