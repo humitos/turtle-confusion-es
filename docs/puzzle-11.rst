@@ -21,8 +21,8 @@ Abrí el cuadernillo en la Figura 11 y leí:
 
 .. line-block::
 
-    **Para resolver las figuras debes guiar a nuestra tortuga durante el baile,**
-    **Si hablas el idioma Logo hará piruetas y brincará,**
+    **Para resolver las figuras en el baile debes guiar a nuestra tortuga ,**
+    **Si hablas Logo piruetas hará y brincará,**
     **Pero recuerda, mientras trabajas y buscas las ideas oscuras,**
     **Que sus tropezones son todos atractivos para una Farancia abacura.**
 
