@@ -99,7 +99,7 @@ El Tortugo y yo estábamos afuera al lado del estanque en el jardín. Estábamos
 
 "No logro entender completamente la conexión entre los acertijos y las figuras," dije. "Seguramente no necesitas resolver los acertijos para poder resolver las figuras."
 
-"No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para las figuras, sobre las relaciones entre las figuras y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío... Apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemática y Logo."
+"No, no necesitas resolver los acertijos primero," dijo el Tortugo. "brindan pistas e indicios para ayudarte a pensar sobre las soluciones para las figuras, sobre las relaciones entre las figuras y sobre los principios matemáticos subyacentes. También, representan por sí mismos un desafío... Apelan a una gran variedad de material; por ejemplo, hay ideas de geografía, historia, mitología, física, química, lengua, literatura y, por supuesto matemáticas y Logo."
 
 "¿Porqué tienes acertijos que involucran cosas fuera de Logo y las matemáticas?" dije.
 
