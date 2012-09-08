@@ -22,7 +22,7 @@ Todos comenzaron a tipear comandos en sus teclados y los cuadrados verdes empeza
 
 .. line-block::
 
-    **Había una pequeña alumna llamada Myrtle,**
+    **Una pequeña alumna llamada Myrtle había,**
     **Que trató de conversar con el Tortugo,**
     **Luego dijo, 'Chicos,**
     **Las escalas caen de sus ojos,**

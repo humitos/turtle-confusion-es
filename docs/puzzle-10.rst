@@ -28,7 +28,7 @@ El Tortugo entró a la cocina con el cuadernillo en la mano. "Sabes EBN," dijo c
     **'No te hagas el vivo,' dijo el Tortugo, 'es muy temprano,**
     **Aún tienes que resolver de manera cíclica esta figura,**
     **Que relaciona otras dos figuras a la figura del pentágono,**
-    **Tal como el neón esta integrado por flúor e hidrógeno.'**
+    **Tal como el neón, que por flúor e hidrógeno está integrado .'**
 
 "Suena a mucho aire caliente para mí," dije, poniéndole un poco más de salsa a mis huevos. 
 

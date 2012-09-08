@@ -24,7 +24,7 @@ El Tortugo se rió entre dientes, y luego dijo, "Mientras pasas por éstas últi
 
 "Entiendo lo que quieres decir," dijo el Tortugo, "pero estoy tratando de encontrar el balance entre dar demasiada ayuda, y por ende no dar lugar al descubrimiento, y no dar suficiente ayuda."
 
-"Oh, creo que lo has logrado en gerenal," dije, "quiero decir, no dar suficiente ayuda." 
+"Oh, creo que lo has logrado en general," dije, "quiero decir, no dar suficiente ayuda." 
 
 El Tortugo se acostó en la manta de picnic, con las manos detrás de su cabeza, mirando hacia arriba entre las hojas. Luego de un rato, se sentó. 
 

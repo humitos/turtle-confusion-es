@@ -16,7 +16,7 @@
 
 .. line-block::
 
-    **"Primo, secundo, tertio, es un buen juego; como lo es el viejo refrán, el tercero lo compensa todo: el tríple, es una buena medida; o las campanas de Saint Bennet, señor, le hagan acordar; uno, dos, tres."**
+    **"Primo, secundo, tertio, es un buen juego; como lo es el viejo refrán, el tercero lo compensa todo: el tríple, es una buena medida; o las campanas de Saint Bennet, señor, uno, dos, tres, le hagan acordar."**
 
 
 "¿Qué se supone que debo hacer con eso? Tiene todo el olor de ser una pista falsa."
