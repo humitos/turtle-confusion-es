@@ -29,7 +29,7 @@ El Tortugo dejó reverentemente su libro encuadernado en cuero sobre su regazo y
 
 Luego levantó su libro otra vez. "Ésto fué escrito más de ciento cincuenta años atrás," dijo. "Tenlo en cuenta." 
 
-Respiró hondo y leyó en voz alta: 
+Respiró hondo y leyó en voz alta: [#]_
 
 .. line-block::
 
@@ -47,5 +47,7 @@ Respiró hondo y leyó en voz alta:
 
     **Limpia como la brisa, como la luz brillar."**    
 
-Me senté en silencio y lo tuve en cuenta. 
+Me senté en silencio y lo tuve en cuenta.
+
+.. [#] N. del T.: Aunque se buscó una traducción publicada del poema de Alfred Lord Tennyson, "The Poet's Mind", la misma no fue encontrada. Por tal motivo, se procedió a traducir, tratando de mantener la estética, métrica y rima del poema respetuosamente, pues forma parte de la literatura universal y lejos queremos estar realizar un trabajo irrespetuoso. Se hace informe de éste hecho en ésta nota.  
 
