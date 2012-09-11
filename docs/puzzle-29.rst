@@ -31,9 +31,21 @@ Luego levantó su libro otra vez. "Ésto fué escrito más de ciento cincuenta a
 
 Respiró hondo y leyó en voz alta: 
 
-    
+.. line-block::
+
+    **"La mente del poeta no has de irritar**
+
+    **Con tu saber superficial:**
+
+    **La mente del poeta no has de irritar;**
+
+    **Pues a comprenderla no puedes llegar.**
+
+    **Limpia y brillante siempre debe ser,**
+
+    **Como un río cristalino fluír;**
+
+    **Limpia como la brisa, como la luz brillar."**    
 
 Me senté en silencio y lo tuve en cuenta. 
-
-
 
