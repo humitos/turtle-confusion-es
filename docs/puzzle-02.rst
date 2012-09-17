@@ -23,7 +23,8 @@ Dejé mi taza de café y miré al Tortugo. "Tu desempeño me pareció bien el ot
 
 El Tortugo me dió una hoja de papel. "Lee este acertijo," dijo.
 
-.. line-block::
+.. class:: puzzle-02-poem
+
 
     **Una mariposa flotaba delicadamente y se posó en una rama cerca de una oruga hambrienta. La mariposa, viendo bajo su probóscide a la oruga, dijo, "Hazte a un lado, ordinaria bestia."**
 

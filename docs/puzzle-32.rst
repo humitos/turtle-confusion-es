@@ -14,7 +14,7 @@
 
 "¿Porqué no?" dijo el Tortugo, sentándose en mi silla más cómoda. "Una interminable fuente de sabiduría." Abrió el libro en una página que tenía marcada y leyó en voz alta:
 
-.. line-block::
+.. class:: puzzle-32-poem
 
     **"Primo, secundo, tertio, es un buen juego; como lo es el viejo refrán, el tercero lo compensa todo: el tríple, es una buena medida; o las campanas de Saint Bennet, señor, uno, dos, tres, le hagan acordar."**
 

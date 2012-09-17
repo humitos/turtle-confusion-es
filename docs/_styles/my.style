@@ -209,6 +209,14 @@
       fontSize: 93%
       leading: 15
 
+    puzzle-02-poem:
+      parent: blockquote
+      leading: 15
+
+    puzzle-32-poem:
+      parent: blockquote
+      leading: 15
+
     lineblock:
       parent: base
       leading: 10
