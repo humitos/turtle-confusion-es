@@ -4,7 +4,7 @@
 .. image:: _static/images/confusion-38.svg
    :height: 300px
    :width: 300px
-   :scale: 38 %
+   :scale: 36 %
    :alt: Puzzle 38
    :align: left
 
