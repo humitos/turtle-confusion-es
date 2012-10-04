@@ -1,10 +1,15 @@
 .. Turtle Confusion - Spanish version documentation master file, created by
    sphinx-quickstart on Sat Aug 18 12:39:50 2012.
 
+.. FIXME: this isolated dot is here because reportlab does not call the
+   "PageBreak" command if there is nothing printable before the .. raw::
+   directive
+
+.
+
 .. raw:: pdf
 
    PageBreak oneColumn
-
 
 Turtle Confusion - Versión en Español
 =====================================
