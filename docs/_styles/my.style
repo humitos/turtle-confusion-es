@@ -20,7 +20,7 @@
     # The first template is one of the 'pageTemplates"
     # (See next section)
 
-    firstTemplate: oneColumn
+    firstTemplate: coverPage
 
   # pageTemplates can be accessed with the .. raw:: pdf PageBreak command
 
@@ -28,6 +28,7 @@
     coverPage:
         frames: []
             [0cm, 0cm, 100%, 100%]
+        background : docs/_static/images/cover.pdf
         showHeader : false
         showFooter : false
 

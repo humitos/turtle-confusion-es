@@ -1,10 +1,10 @@
 .. Turtle Confusion - Spanish version documentation master file, created by
    sphinx-quickstart on Sat Aug 18 12:39:50 2012.
 
+.. raw:: pdf
 
-.. figure:: _static/images/cover.png
-    :align: center
-    :scale: 100%
+   PageBreak oneColumn
+
 
 Turtle Confusion - Versión en Español
 =====================================
