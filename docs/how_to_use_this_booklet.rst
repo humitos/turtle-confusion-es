@@ -95,6 +95,6 @@ Considero que el líder de un grupo de resolución de problemas tiene responsabi
 
     Asegúrate de poder admitir no saber las respuestas - entonces serás libre de participar en los procesos grupales. Sobre todo - ¡disfruta la aventura!
 
-.. [#] N. del T.: Se decidió traducir los comandos de LSCI Apple Logo a comandos de Turtle Art (una actividad de la plataforma educativa Sugar), ya que la implementación de LSCI Apple Logo que se menciona en el original está en desuso. Para que el grupo de comandos sea consistente con los que existen en Turtle Art, los comandos TO (PARA), END (FIN) y EDIT (EDITAR), fueron reemplazados por ACCIÓN. 
+.. [#] N. de la T.: Se decidió traducir los comandos de LSCI Apple Logo a comandos de Turtle Art (una actividad de la plataforma educativa Sugar), ya que la implementación de LSCI Apple Logo que se menciona en el original está en desuso. Para que el grupo de comandos sea consistente con los que existen en Turtle Art, los comandos TO (PARA), END (FIN) y EDIT (EDITAR), fueron reemplazados por ACCIÓN. 
 
 
