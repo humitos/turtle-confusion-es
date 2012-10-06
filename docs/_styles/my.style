@@ -11,9 +11,9 @@
     height: null
     margin-top: 1cm
     margin-bottom: 1cm
-    margin-left: 2cm
-    margin-right: 2cm
-    margin-gutter: 1.5cm
+    margin-left: 3.5cm
+    margin-right: 3.5cm
+    margin-gutter: -1.5cm
     spacing-header: 0cm
     spacing-footer: 0cm
 
