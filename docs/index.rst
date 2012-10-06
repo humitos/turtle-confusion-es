@@ -15,6 +15,13 @@ Turtle Confusion - Versión en Español
 .. _Melina Lucía Coronel: melina_coronel@yahoo.com.ar
 .. _Manuel Kaufmann: humitos@gmail.com
 
+
+Nos gustaría agradecer a varias personas que colaboraron de alguna u otra manera para que esta traducción sea posible. En primer lugar, a Barry Newell por haber escrito un excelente libro como éste y autorizar la traducción del mismo. También a Manuel Quiñones, quien diseñó la tapa del libro. Danilo Hein y Carlos Glücklich quienes nos dieron una mano con la traducción del poema de la figura 29, como así también a Leonardo De Luca que nos ayudó con algunas sugerencias sobre la traducción. Finalmente, y no por eso menos importante, a Roberto Alsina por su magnífico trabajo en el software utilizado para crear la versión PDF de este libro llamado `rst2pdf`_ y a Gonzalo Odiard por estimular este proyecto.
+
+¡Muchas gracias a todos los que colaboraron! Estamos muy contentos con este proyecto.
+
+.. _rst2pdf: http://rst2pdf.ralsina.com.ar/
+
 .. toctree::
    :maxdepth: 2
 
