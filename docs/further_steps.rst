@@ -1,5 +1,5 @@
-**SIGUIENTES PASOS**
-====================
+**PRÓXIMOS PASOS**
+==================
 
 El Tortugo y yo estábamos afuera al lado del estanque estudiando y adentrándonos a tomar otro bowl de ponche de celebración. Había un excelente queso y pan italiano en la mesa. 
 
