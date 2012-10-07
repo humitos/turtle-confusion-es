@@ -14,8 +14,8 @@
 Turtle Confusion - Versión en Español
 =====================================
 
-:Versión: 1.0 (UNFINISHED)
-:Fecha: 5th September, 2012
+:Versión: 1.0
+:Fecha: 7 de Octubre de 2012
 :Copyright: `Creative Commons BY-SA`_
 
 .. _Creative Commons BY-SA: http://creativecommons.org/licenses/by-sa/3.0/deed.es
